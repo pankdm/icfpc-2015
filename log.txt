@@ -1,0 +1,1792 @@
+createdWill write to dir: new_solutions/0203-qg8s
+Solving problem 1
+Solving seed 0 (0/1)
+2015-08-10 00:36:20.807452 Processed 11 out of 100
+2015-08-10 00:36:21.494315 Processed 22 out of 100
+2015-08-10 00:36:22.209241 Processed 33 out of 100
+2015-08-10 00:36:22.878544 Processed 44 out of 100
+2015-08-10 00:36:23.489251 Processed 55 out of 100
+2015-08-10 00:36:24.047418 Processed 66 out of 100
+2015-08-10 00:36:24.578659 Processed 77 out of 100
+2015-08-10 00:36:25.106895 Processed 88 out of 100
+2015-08-10 00:36:25.526114 Processed 99 out of 100
+No more figures (processed: 100)
+800
+No more figures (processed: 100)
+total moves =  1997 out of  1997
+Canonical score =  2346
+No more figures (processed: 100)
+total moves =  1997 out of  1997
+Canonical score =  2346
+score: 800, canonical_score: 2346
+Dumping solutions
+Wrote to file:  new_solutions/0203-qg8s/solution_1.json
+Ranks files wasn't specified using latest:  rankings/0060-rt3x.js
+Found:  {u'power_score': 2, u'tags': [u'v2_new_solutions/0162-y46c_score_2346_5'], u'rank': 63, u'teamId': 143, u'score': 2346, u'team': u'Snakes vs Lambdas'}
+New score: 2346, current: 2346
+
+Sending by curl
+Test #1: 2346
+Total score: 2346
+Wrote to file:  new_solutions/0203-qg8s/solution.json
+createdWill write to dir: new_solutions/0204-i705
+Solving problem 0
+Solving seed 0 (0/1)
+2015-08-10 00:36:21.137232 Processed 11 out of 100
+2015-08-10 00:36:22.186980 Processed 22 out of 100
+2015-08-10 00:36:23.257064 Processed 33 out of 100
+2015-08-10 00:36:24.171845 Processed 44 out of 100
+2015-08-10 00:36:25.078045 Processed 55 out of 100
+2015-08-10 00:36:26.062992 Processed 66 out of 100
+2015-08-10 00:36:26.939315 Processed 77 out of 100
+2015-08-10 00:36:27.970396 Processed 88 out of 100
+2015-08-10 00:36:29.177836 Processed 99 out of 100
+No more figures (processed: 100)
+2549
+No more figures (processed: 100)
+total moves =  1273 out of  1273
+Canonical score =  4481
+No more figures (processed: 100)
+total moves =  1273 out of  1273
+Canonical score =  4481
+score: 2549, canonical_score: 4481
+Dumping solutions
+Wrote to file:  new_solutions/0204-i705/solution_0.json
+Ranks files wasn't specified using latest:  rankings/0060-rt3x.js
+Found:  {u'power_score': 4, u'tags': [u'v2_new_solutions/0161-mcg9_score_4481_5'], u'rank': 54, u'teamId': 143, u'score': 4481, u'team': u'Snakes vs Lambdas'}
+New score: 4481, current: 4481
+
+Sending by curl
+Test #0: 4481
+Total score: 4481
+Wrote to file:  new_solutions/0204-i705/solution.json
+Will write to dir: new_solutions/0206-8395
+Solving problem 4
+Solving seed 0 (0/50)
+2015-08-10 00:36:32.548792 Processed 21 out of 200
+2015-08-10 00:36:34.713104 Processed 42 out of 200
+2015-08-10 00:36:36.773711 Processed 63 out of 200
+2015-08-10 00:36:38.918113 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+3188
+Couldn't spawn new: the board is full!
+total moves =  1144 out of  1144
+Canonical score =  5246
+Couldn't spawn new: the board is full!
+total moves =  1144 out of  1144
+Canonical score =  5246
+score: 3188, canonical_score: 5246
+Solving seed 16868 (1/50)
+2015-08-10 00:36:41.824568 Processed 21 out of 200
+2015-08-10 00:36:43.680169 Processed 42 out of 200
+2015-08-10 00:36:45.526416 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1880
+Couldn't spawn new: the board is full!
+total moves =  883 out of  883
+Canonical score =  3632
+Couldn't spawn new: the board is full!
+total moves =  883 out of  883
+Canonical score =  3632
+score: 1880, canonical_score: 3632
+Solving seed 32001 (2/50)
+2015-08-10 00:36:47.892206 Processed 21 out of 200
+2015-08-10 00:36:50.316085 Processed 42 out of 200
+2015-08-10 00:36:52.456892 Processed 63 out of 200
+2015-08-10 00:36:54.277316 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+2980
+Couldn't spawn new: the board is full!
+total moves =  1321 out of  1321
+Canonical score =  5074
+Couldn't spawn new: the board is full!
+total moves =  1321 out of  1321
+Canonical score =  5074
+score: 2980, canonical_score: 5074
+Solving seed 13661 (3/50)
+2015-08-10 00:36:56.734451 Processed 21 out of 200
+2015-08-10 00:36:58.792379 Processed 42 out of 200
+2015-08-10 00:37:01.010825 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2204
+Couldn't spawn new: the board is full!
+total moves =  1086 out of  1086
+Canonical score =  4160
+Couldn't spawn new: the board is full!
+total moves =  1086 out of  1086
+Canonical score =  4160
+score: 2204, canonical_score: 4160
+Solving seed 12352 (4/50)
+2015-08-10 00:37:04.199098 Processed 21 out of 200
+2015-08-10 00:37:06.294551 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1324
+Couldn't spawn new: the board is full!
+total moves =  705 out of  705
+Canonical score =  2990
+Couldn't spawn new: the board is full!
+total moves =  705 out of  705
+Canonical score =  2990
+score: 1324, canonical_score: 2990
+Solving seed 29707 (5/50)
+2015-08-10 00:37:09.039636 Processed 21 out of 200
+2015-08-10 00:37:11.029573 Processed 42 out of 200
+2015-08-10 00:37:13.089621 Processed 63 out of 200
+2015-08-10 00:37:15.763041 Processed 84 out of 200
+2015-08-10 00:37:17.927058 Processed 105 out of 200
+2015-08-10 00:37:19.905276 Processed 126 out of 200
+Couldn't spawn new: the board is full!
+4620
+Couldn't spawn new: the board is full!
+total moves =  1516 out of  1516
+Canonical score =  6236
+Couldn't spawn new: the board is full!
+total moves =  1516 out of  1516
+Canonical score =  6236
+score: 4620, canonical_score: 6236
+Solving seed 19957 (6/50)
+2015-08-10 00:37:22.633600 Processed 21 out of 200
+2015-08-10 00:37:24.592459 Processed 42 out of 200
+2015-08-10 00:37:26.697101 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2536
+Couldn't spawn new: the board is full!
+total moves =  1049 out of  1049
+Canonical score =  4346
+Couldn't spawn new: the board is full!
+total moves =  1049 out of  1049
+Canonical score =  4346
+score: 2536, canonical_score: 4346
+Solving seed 2584 (7/50)
+2015-08-10 00:37:30.473915 Processed 21 out of 200
+2015-08-10 00:37:32.563839 Processed 42 out of 200
+2015-08-10 00:37:34.727084 Processed 63 out of 200
+2015-08-10 00:37:36.800808 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+3404
+Couldn't spawn new: the board is full!
+total moves =  1498 out of  1498
+Canonical score =  5698
+Couldn't spawn new: the board is full!
+total moves =  1498 out of  1498
+Canonical score =  5698
+score: 3404, canonical_score: 5698
+Solving seed 21791 (8/50)
+2015-08-10 00:37:40.091614 Processed 21 out of 200
+2015-08-10 00:37:42.138299 Processed 42 out of 200
+2015-08-10 00:37:44.054601 Processed 63 out of 200
+Couldn't spaWill write to dir: new_solutions/0202-rnsv
+Solving problem 2
+Solving seed 0 (0/10)
+2015-08-10 00:36:23.618725 Processed 11 out of 100
+2015-08-10 00:36:27.185930 Processed 22 out of 100
+2015-08-10 00:36:29.948988 Processed 33 out of 100
+2015-08-10 00:36:32.751825 Processed 44 out of 100
+2015-08-10 00:36:35.019842 Processed 55 out of 100
+2015-08-10 00:36:37.147168 Processed 66 out of 100
+2015-08-10 00:36:39.302358 Processed 77 out of 100
+2015-08-10 00:36:40.947486 Processed 88 out of 100
+2015-08-10 00:36:42.712796 Processed 99 out of 100
+No more figures (processed: 100)
+1600
+No more figures (processed: 100)
+total moves =  2816 out of  2816
+Canonical score =  6032
+No more figures (processed: 100)
+total moves =  2816 out of  2816
+Canonical score =  6032
+score: 1600, canonical_score: 6032
+Solving seed 679 (1/10)
+2015-08-10 00:36:46.727927 Processed 11 out of 100
+2015-08-10 00:36:50.357869 Processed 22 out of 100
+2015-08-10 00:36:53.439231 Processed 33 out of 100
+2015-08-10 00:36:55.992721 Processed 44 out of 100
+2015-08-10 00:36:58.269129 Processed 55 out of 100
+2015-08-10 00:37:00.311107 Processed 66 out of 100
+2015-08-10 00:37:02.510702 Processed 77 out of 100
+2015-08-10 00:37:04.520043 Processed 88 out of 100
+2015-08-10 00:37:06.476247 Processed 99 out of 100
+No more figures (processed: 100)
+1900
+No more figures (processed: 100)
+total moves =  2852 out of  2852
+Canonical score =  6310
+No more figures (processed: 100)
+total moves =  2852 out of  2852
+Canonical score =  6310
+score: 1900, canonical_score: 6310
+Solving seed 13639 (2/10)
+2015-08-10 00:37:10.727111 Processed 11 out of 100
+2015-08-10 00:37:14.847644 Processed 22 out of 100
+2015-08-10 00:37:18.049106 Processed 33 out of 100
+2015-08-10 00:37:21.144583 Processed 44 out of 100
+2015-08-10 00:37:23.957216 Processed 55 out of 100
+2015-08-10 00:37:26.533176 Processed 66 out of 100
+2015-08-10 00:37:28.751585 Processed 77 out of 100
+2015-08-10 00:37:30.789768 Processed 88 out of 100
+2015-08-10 00:37:32.617418 Processed 99 out of 100
+No more figures (processed: 100)
+2300
+No more figures (processed: 100)
+total moves =  3512 out of  3512
+Canonical score =  7826
+No more figures (processed: 100)
+total moves =  3512 out of  3512
+Canonical score =  7826
+score: 2300, canonical_score: 7826
+Solving seed 13948 (3/10)
+2015-08-10 00:37:36.429362 Processed 11 out of 100
+2015-08-10 00:37:39.811618 Processed 22 out of 100
+2015-08-10 00:37:43.085822 Processed 33 out of 100
+2015-08-10 00:37:45.743177 Processed 44 out of 100
+2015-08-10 00:37:48.006353 Processed 55 out of 100
+2015-08-10 00:37:50.051698 Processed 66 out of 100
+2015-08-10 00:37:51.957776 Processed 77 out of 100
+2015-08-10 00:37:53.946451 Processed 88 out of 100
+2015-08-10 00:37:55.728146 Processed 99 out of 100
+No more figures (processed: 100)
+1800
+No more figures (processed: 100)
+total moves =  2936 out of  2936
+Canonical score =  6410
+No more figures (processed: 100)
+total moves =  2936 out of  2936
+Canonical score =  6410
+score: 1800, canonical_score: 6410
+Solving seed 29639 (4/10)
+2015-08-10 00:37:59.667185 Processed 11 out of 100
+2015-08-10 00:38:03.270898 Processed 22 out of 100
+2015-08-10 00:38:07.597312 Processed 33 out of 100
+2015-08-10 00:38:11.455330 Processed 44 out of 100
+2015-08-10 00:38:14.502037 Processed 55 out of 100
+2015-08-10 00:38:17.628715 Processed 66 out of 100
+2015-08-10 00:38:20.387120 Processed 77 out of 100
+2015-08-10 00:38:22.219802 Processed 88 out of 100
+2015-08-10 00:38:24.141968 Processed 99 out of 100
+No more figures (processed: 100)
+2100
+No more figures (processed: 100)
+total moves =  3602 out of  3602
+Canonical score =  7626
+No more figures (processed: 100)
+total moves =  3602 out of  3602
+Canonical score =  7626
+score: 2100, canonical_score: 7626
+Solving seed 15385 (5/10)
+2015-08-10 00:38:29.387042 Processed 11 out of 100
+2015-08-10 00:38:33.440190 Processed 22 out of 100
+2015-08-10 00:38:36.479453 Processed 33 out of 100
+2015-08-10 00:38:39.412234 Processed 44 out of 100
+2015-08-10 00:38:42.124967 Processed 55 out of 100
+2015-08-10 00:38:45.682732 Processed 66 out of 100
+2015-08-10 00:38:48wn new: the board is full!
+2200
+Couldn't spawn new: the board is full!
+total moves =  1104 out of  1104
+Canonical score =  4244
+Couldn't spawn new: the board is full!
+total moves =  1104 out of  1104
+Canonical score =  4244
+score: 2200, canonical_score: 4244
+Solving seed 18451 (9/50)
+2015-08-10 00:37:47.060762 Processed 21 out of 200
+2015-08-10 00:37:49.325066 Processed 42 out of 200
+2015-08-10 00:37:51.240879 Processed 63 out of 200
+2015-08-10 00:37:53.520687 Processed 84 out of 200
+2015-08-10 00:37:55.343284 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+4200
+Couldn't spawn new: the board is full!
+total moves =  1715 out of  1715
+Canonical score =  6584
+Couldn't spawn new: the board is full!
+total moves =  1715 out of  1715
+Canonical score =  6584
+score: 4200, canonical_score: 6584
+Solving seed 17818 (10/50)
+2015-08-10 00:37:58.755251 Processed 21 out of 200
+2015-08-10 00:38:00.909331 Processed 42 out of 200
+2015-08-10 00:38:02.337671 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1768
+Couldn't spawn new: the board is full!
+total moves =  831 out of  831
+Canonical score =  3776
+Couldn't spawn new: the board is full!
+total moves =  831 out of  831
+Canonical score =  3776
+score: 1768, canonical_score: 3776
+Solving seed 26137 (11/50)
+2015-08-10 00:38:04.775164 Processed 21 out of 200
+2015-08-10 00:38:07.239960 Processed 42 out of 200
+2015-08-10 00:38:09.671394 Processed 63 out of 200
+2015-08-10 00:38:12.042461 Processed 84 out of 200
+2015-08-10 00:38:14.130079 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+3968
+Couldn't spawn new: the board is full!
+total moves =  1729 out of  1729
+Canonical score =  6736
+Couldn't spawn new: the board is full!
+total moves =  1729 out of  1729
+Canonical score =  6736
+score: 3968, canonical_score: 6736
+Solving seed 7533 (12/50)
+2015-08-10 00:38:17.226588 Processed 21 out of 200
+2015-08-10 00:38:19.444532 Processed 42 out of 200
+2015-08-10 00:38:21.560241 Processed 63 out of 200
+2015-08-10 00:38:23.485569 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+2856
+Couldn't spawn new: the board is full!
+total moves =  1047 out of  1047
+Canonical score =  4262
+Couldn't spawn new: the board is full!
+total moves =  1047 out of  1047
+Canonical score =  4262
+score: 2856, canonical_score: 4262
+Solving seed 29971 (13/50)
+2015-08-10 00:38:25.814663 Processed 21 out of 200
+2015-08-10 00:38:28.922737 Processed 42 out of 200
+2015-08-10 00:38:31.519460 Processed 63 out of 200
+2015-08-10 00:38:33.671114 Processed 84 out of 200
+2015-08-10 00:38:35.630555 Processed 105 out of 200
+2015-08-10 00:38:37.603898 Processed 126 out of 200
+Couldn't spawn new: the board is full!
+5050
+Couldn't spawn new: the board is full!
+total moves =  1942 out of  1942
+Canonical score =  7620
+Couldn't spawn new: the board is full!
+total moves =  1942 out of  1942
+Canonical score =  7620
+score: 5050, canonical_score: 7620
+Solving seed 2895 (14/50)
+2015-08-10 00:38:40.391730 Processed 21 out of 200
+2015-08-10 00:38:42.891045 Processed 42 out of 200
+2015-08-10 00:38:45.913346 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2432
+Couldn't spawn new: the board is full!
+total moves =  1116 out of  1116
+Canonical score =  4376
+Couldn't spawn new: the board is full!
+total moves =  1116 out of  1116
+Canonical score =  4376
+score: 2432, canonical_score: 4376
+Solving seed 177 (15/50)
+2015-08-10 00:38:50.171588 Processed 21 out of 200
+2015-08-10 00:38:52.782425 Processed 42 out of 200
+2015-08-10 00:38:55.030613 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2532
+Couldn't spawn new: the board is full!
+total moves =  958 out of  958
+Canonical score =  4294
+Couldn't spawn new: the board is full!
+total moves =  958 out of  958
+Canonical score =  4294
+score: 2532, canonical_score: 4294
+Solving seed 8466 (16/50)
+2015-08-10 00:38:59.447865 Processed 21 out of 200
+2015-08-10 00:39:01.984992 Processed 42 out of 200
+2015-08-10 00:39:04.608661 Processed 63 out of 200
+2015-08-10 00:39:06.446919 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+2648
+Couldn't spawn new: the board is full!
+total moves =  1090 out of  1090
+Canonical score =  4554
+Couldn't spawn new: the board is full!
+total moves =  1090 out of  1090
+Canonical score =  4554
+score: 2648, canonical_score: 4554
+Solving seed 17014 (17/50)
+2015-08-10 00:39:09.348679 Processed 21 out of 200
+2015-08-10 00:39:12.087594 Processed 42 out of 200
+2015-08-10 00:39:14.647597 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2212
+Couldn't spawn new: the board is full!
+total moves =  953 out of  953
+Canonical score =  3976
+Couldn't spawn new: the board is full!
+total moves =  953 out of  953
+Canonical score =  3976
+score: 2212, canonical_score: 3976
+Solving seed 23414 (18/50)
+2015-08-10 00:39:18.682744 Processed 21 out of 200
+2015-08-10 00:39:21.555170 Processed 42 out of 200
+2015-08-10 00:39:24.265634 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1986
+Couldn't spawn new: the board is full!
+total moves =  1046 out of  1046
+Canonical score =  3962
+Couldn't spawn new: the board is full!
+total moves =  1046 out of  1046
+Canonical score =  3962
+score: 1986, canonical_score: 3962
+Solving seed 23008 (19/50)
+2015-08-10 00:39:27.418292 Processed 21 out of 200
+2015-08-10 00:39:30.066552 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1548
+Couldn't spawn new: the board is full!
+total moves =  652 out of  652
+Canonical score =  2764
+Couldn't spawn new: the board is full!
+total moves =  652 out of  652
+Canonical score =  2764
+score: 1548, canonical_score: 2764
+Solving seed 15766 (20/50)
+2015-08-10 00:39:34.037736 Processed 21 out of 200
+2015-08-10 00:39:36.433623 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1104
+Couldn't spawn new: the board is full!
+total moves =  560 out of  560
+Canonical score =  2306
+Couldn't spawn new: the board is full!
+total moves =  560 out of  560
+Canonical score =  2306
+score: 1104, canonical_score: 2306
+Solving seed 6045 (21/50)
+2015-08-10 00:39:39.789808 Processed 21 out of 200
+2015-08-10 00:39:42.495012 Processed 42 out of 200
+2015-08-10 00:39:44.670323 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1772
+Couldn't spawn new: the board is full!
+total moves =  770 out of  770
+Canonical score =  3104
+Couldn't spawn new: the board is full!
+total moves =  770 out of  770
+Canonical score =  3104
+score: 1772, canonical_score: 3104
+Solving seed 13537 (22/50)
+2015-08-10 00:39:47.785710 Processed 21 out of 200
+2015-08-10 00:39:50.803932 Processed 42 out of 200
+2015-08-10 00:39:53.555171 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2104
+Couldn't spawn new: the board is full!
+total moves =  1111 out of  1111
+Canonical score =  4420
+Couldn't spawn new: the board is full!
+total moves =  1111 out of  1111
+Canonical score =  4420
+score: 2104, canonical_score: 4420
+Solving seed 31051 (23/50)
+2015-08-10 00:39:57.545334 Processed 21 out of 200
+2015-08-10 00:40:00.250722 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1552
+Couldn't spawn new: the board is full!
+total moves =  848 out of  848
+Canonical score =  3354
+Couldn't spawn new: the board is full!
+total moves =  848 out of  848
+Canonical score =  3354
+score: 1552, canonical_score: 3354
+Solving seed 12140 (24/50)
+2015-08-10 00:40:04.810594 Processed 21 out of 200
+2015-08-10 00:40:07.641950 Processed 42 out of 200
+2015-08-10 00:40:10.143996 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2092
+Couldn't spawn new: the board is full!
+total moves =  1173 out of  1173
+Canonical score =  4222
+Couldn't spawn new: the board is full!
+total moves =  1173 out of  1173
+Canonical score =  4222
+score: 2092, canonical_score: 4222
+Solving seed 26930 (25/50)
+2015-08-10 00:40:13.748242 Processed 21 out of 200
+2015-08-10 00:40:16.497378 Processed 42 out of 200
+2015-08-10 00:40:19.111782 Processed 63 out of 200
+2015-08-10 00:40:22.067231 Processed 84 out of 200
+2015-08-10 00:40:24.636131 Processed 105 out of 200
+2015-08-10 00:40:27.362905 Processed 126 out of 200
+2015-08-10 00:40:30.083684 Processed 147 out of 200
+Couldn't spawn new: the board is full!
+6152
+Couldn't spcreated.742505 Processed 77 out of 100
+2015-08-10 00:38:51.159759 Processed 88 out of 100
+2015-08-10 00:38:53.656116 Processed 99 out of 100
+No more figures (processed: 100)
+2100
+No more figures (processed: 100)
+total moves =  3222 out of  3222
+Canonical score =  7068
+No more figures (processed: 100)
+total moves =  3222 out of  3222
+Canonical score =  7068
+score: 2100, canonical_score: 7068
+Solving seed 16783 (6/10)
+2015-08-10 00:38:58.869178 Processed 11 out of 100
+2015-08-10 00:39:03.256363 Processed 22 out of 100
+2015-08-10 00:39:07.301524 Processed 33 out of 100
+2015-08-10 00:39:10.811155 Processed 44 out of 100
+2015-08-10 00:39:13.901270 Processed 55 out of 100
+2015-08-10 00:39:16.840850 Processed 66 out of 100
+2015-08-10 00:39:19.679175 Processed 77 out of 100
+2015-08-10 00:39:21.939975 Processed 88 out of 100
+2015-08-10 00:39:24.297446 Processed 99 out of 100
+No more figures (processed: 100)
+2100
+No more figures (processed: 100)
+total moves =  3100 out of  3100
+Canonical score =  7002
+No more figures (processed: 100)
+total moves =  3100 out of  3100
+Canonical score =  7002
+score: 2100, canonical_score: 7002
+Solving seed 23862 (7/10)
+2015-08-10 00:39:29.891565 Processed 11 out of 100
+2015-08-10 00:39:34.358780 Processed 22 out of 100
+2015-08-10 00:39:38.272561 Processed 33 out of 100
+2015-08-10 00:39:41.983886 Processed 44 out of 100
+2015-08-10 00:39:45.083940 Processed 55 out of 100
+2015-08-10 00:39:47.969997 Processed 66 out of 100
+2015-08-10 00:39:50.683009 Processed 77 out of 100
+2015-08-10 00:39:53.243608 Processed 88 out of 100
+2015-08-10 00:39:55.870562 Processed 99 out of 100
+No more figures (processed: 100)
+2000
+No more figures (processed: 100)
+total moves =  2984 out of  2984
+Canonical score =  6682
+No more figures (processed: 100)
+total moves =  2984 out of  2984
+Canonical score =  6682
+score: 2000, canonical_score: 6682
+Solving seed 25221 (8/10)
+2015-08-10 00:40:01.478499 Processed 11 out of 100
+2015-08-10 00:40:05.965217 Processed 22 out of 100
+2015-08-10 00:40:09.781259 Processed 33 out of 100
+2015-08-10 00:40:13.070880 Processed 44 out of 100
+2015-08-10 00:40:15.842063 Processed 55 out of 100
+2015-08-10 00:40:18.659523 Processed 66 out of 100
+2015-08-10 00:40:21.373521 Processed 77 out of 100
+2015-08-10 00:40:24.136374 Processed 88 out of 100
+2015-08-10 00:40:26.472825 Processed 99 out of 100
+No more figures (processed: 100)
+1900
+No more figures (processed: 100)
+total moves =  2716 out of  2716
+Canonical score =  6088
+No more figures (processed: 100)
+total moves =  2716 out of  2716
+Canonical score =  6088
+score: 1900, canonical_score: 6088
+Solving seed 23027 (9/10)
+2015-08-10 00:40:31.643464 Processed 11 out of 100
+2015-08-10 00:40:36.832296 Processed 22 out of 100
+2015-08-10 00:40:40.102849 Processed 33 out of 100
+2015-08-10 00:40:42.755199 Processed 44 out of 100
+2015-08-10 00:40:45.262546 Processed 55 out of 100
+2015-08-10 00:40:47.311205 Processed 66 out of 100
+2015-08-10 00:40:49.287880 Processed 77 out of 100
+2015-08-10 00:40:51.103231 Processed 88 out of 100
+2015-08-10 00:40:52.927990 Processed 99 out of 100
+No more figures (processed: 100)
+1900
+No more figures (processed: 100)
+total moves =  2900 out of  2900
+Canonical score =  6356
+No more figures (processed: 100)
+total moves =  2900 out of  2900
+Canonical score =  6356
+score: 1900, canonical_score: 6356
+Dumping solutions
+Wrote to file:  new_solutions/0202-rnsv/solution_2.json
+Ranks files wasn't specified using latest:  rankings/0060-rt3x.js
+Found:  {u'power_score': 5, u'tags': [u'v2_new_solutions/0163-6cnz_score_6740_5'], u'rank': 32, u'teamId': 143, u'score': 6740, u'team': u'Snakes vs Lambdas'}
+New score: 6740, current: 6740
+
+Sending by curl
+Test #2: 67400
+Total score: 67400
+Wrote to file:  new_solutions/0202-rnsv/solution.json
+Will write to dir: new_solutions/0209-0s5i
+Solving problem 5
+Solving seed 0 (0/10)
+2015-08-10 00:40:54.658508 Processed 1 out of 100
+2015-08-10 00:40:55.151067 Processed 2 out of 100
+2015-08-10 00:40:55.848127 Processed 3 out of 100
+2015-08-10 00:40:56.564671 Processed 4 out of 100
+2015-08-10 00:40:57.210109 Processed 5 out of 100
+2015-08-10 00:40:57.379483 Processed 6 out of 100
+2015-08-10 00:40:57.769444 Processed 7 out of 100
+2015-08-10 00:40:58.148792 Processed 8 out of 100
+2015-08-10 00:40:58.505928 Processed 9 out of 100
+2015-08-10 00:40:58.671257 Processed 10 out of 100
+2015-08-10 00:40:59.345187 Processed 11 out of 100
+2015-08-10 00:41:00.046101 Processed 12 out of 100
+2015-08-10 00:41:00.717442 Processed 13 out of 100
+2015-08-10 00:41:01.437679 Processed 14 out of 100
+2015-08-10 00:41:01.859668 Processed 15 out of 100
+2015-08-10 00:41:02.676371 Processed 16 out of 100
+2015-08-10 00:41:03.800117 Processed 17 out of 100
+2015-08-10 00:41:04.397153 Processed 18 out of 100
+2015-08-10 00:41:05.319384 Processed 19 out of 100
+2015-08-10 00:41:06.294348 Processed 20 out of 100
+2015-08-10 00:41:07.189810 Processed 21 out of 100
+2015-08-10 00:41:07.769082 Processed 22 out of 100
+2015-08-10 00:41:08.259700 Processed 23 out of 100
+2015-08-10 00:41:09.132188 Processed 24 out of 100
+2015-08-10 00:41:10.025760 Processed 25 out of 100
+2015-08-10 00:41:10.989815 Processed 26 out of 100
+2015-08-10 00:41:11.473361 Processed 27 out of 100
+2015-08-10 00:41:12.348224 Processed 28 out of 100
+2015-08-10 00:41:12.901223 Processed 29 out of 100
+2015-08-10 00:41:13.592714 Processed 30 out of 100
+2015-08-10 00:41:14.493887 Processed 31 out of 100
+2015-08-10 00:41:15.063613 Processed 32 out of 100
+2015-08-10 00:41:15.643876 Processed 33 out of 100
+2015-08-10 00:41:16.140670 Processed 34 out of 100
+2015-08-10 00:41:16.646196 Processed 35 out of 100
+2015-08-10 00:41:16.968559 Processed 36 out of 100
+2015-08-10 00:41:17.373360 Processed 37 out of 100
+2015-08-10 00:41:17.508013 Processed 38 out of 100
+2015-08-10 00:41:17.961812 Processed 39 out of 100
+2015-08-10 00:41:18.368283 Processed 40 out of 100
+2015-08-10 00:41:18.513098 Processed 41 out of 100
+2015-08-10 00:41:18.782542 Processed 42 out of 100
+2015-08-10 00:41:19.188514 Processed 43 out of 100
+2015-08-10 00:41:19.571925 Processed 44 out of 100
+2015-08-10 00:41:19.977679 Processed 45 out of 100
+2015-08-10 00:41:20.326559 Processed 46 out of 100
+2015-08-10 00:41:20.694712 Processed 47 out of 100
+2015-08-10 00:41:21.012046 Processed 48 out of 100
+2015-08-10 00:41:21.334726 Processed 49 out of 100
+2015-08-10 00:41:21.648570 Processed 50 out of 100
+2015-08-10 00:41:21.848822 Processed 51 out of 100
+2015-08-10 00:41:22.153805 Processed 52 out of 100
+2015-08-10 00:41:22.251775 Processed 53 out of 100
+2015-08-10 00:41:22.395673 Processed 54 out of 100
+2015-08-10 00:41:22.718819 Processed 55 out of 100
+2015-08-10 00:41:22.997899 Processed 56 out of 100
+2015-08-10 00:41:23.284868 Processed 57 out of 100
+2015-08-10 00:41:23.535248 Processed 58 out of 100
+2015-08-10 00:41:23.828776 Processed 59 out of 100
+2015-08-10 00:41:24.091057 Processed 60 out of 100
+2015-08-10 00:41:24.350074 Processed 61 out of 100
+2015-08-10 00:41:24.488994 Processed 62 out of 100
+2015-08-10 00:41:24.584020 Processed 63 out of 100
+2015-08-10 00:41:24.869664 Processed 64 out of 100
+2015-08-10 00:41:25.194573 Processed 65 out of 100
+2015-08-10 00:41:25.456752 Processed 66 out of 100
+2015-08-10 00:41:25.716002 Processed 67 out of 100
+2015-08-10 00:41:25.972100 Processed 68 out of 100
+2015-08-10 00:41:26.225004 Processed 69 out of 100
+2015-08-10 00:41:26.312922 Processed 70 out of 100
+2015-08-10 00:41:26.593822 Processed 71 out of 100
+2015-08-10 00:41:26.726197 Processed 72 out of 100
+2015-08-10 00:41:27.022884 Processed 73 out of 100
+2015-08-10 00:41:27.155364 Processed 74 out of 100
+2015-08-10 00:41:27.419481 Processed 75 out of 100
+2015-08-10 00:41:27.684131 Processed 76 out of 100
+2015-08-10 00:41:27.951503 Processed 77 out of 100
+2015-08-10 00:41:28.236379 Processed 78 out of 100
+2015-08-10 00:41:28.494109 Processed 79 out awn new: the board is full!
+total moves =  1739 out of  1739
+Canonical score =  7750
+Couldn't spawn new: the board is full!
+total moves =  1739 out of  1739
+Canonical score =  7750
+score: 6152, canonical_score: 7750
+Solving seed 28921 (26/50)
+2015-08-10 00:40:33.998007 Processed 21 out of 200
+2015-08-10 00:40:36.610723 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1436
+Couldn't spawn new: the board is full!
+total moves =  756 out of  756
+Canonical score =  3112
+Couldn't spawn new: the board is full!
+total moves =  756 out of  756
+Canonical score =  3112
+score: 1436, canonical_score: 3112
+Solving seed 8444 (27/50)
+2015-08-10 00:40:40.458974 Processed 21 out of 200
+2015-08-10 00:40:42.681418 Processed 42 out of 200
+2015-08-10 00:40:45.042777 Processed 63 out of 200
+2015-08-10 00:40:46.895809 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+3420
+Couldn't spawn new: the board is full!
+total moves =  1351 out of  1351
+Canonical score =  5446
+Couldn't spawn new: the board is full!
+total moves =  1351 out of  1351
+Canonical score =  5446
+score: 3420, canonical_score: 5446
+Solving seed 29697 (28/50)
+2015-08-10 00:40:50.188635 Processed 21 out of 200
+2015-08-10 00:40:52.192955 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1548
+Couldn't spawn new: the board is full!
+total moves =  854 out of  854
+Canonical score =  3344
+Couldn't spawn new: the board is full!
+total moves =  854 out of  854
+Canonical score =  3344
+score: 1548, canonical_score: 3344
+Solving seed 8269 (29/50)
+2015-08-10 00:40:55.862350 Processed 21 out of 200
+2015-08-10 00:40:57.891257 Processed 42 out of 200
+2015-08-10 00:40:59.929143 Processed 63 out of 200
+2015-08-10 00:41:01.781360 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+2756
+Couldn't spawn new: the board is full!
+total moves =  1268 out of  1268
+Canonical score =  5174
+Couldn't spawn new: the board is full!
+total moves =  1268 out of  1268
+Canonical score =  5174
+score: 2756, canonical_score: 5174
+Solving seed 12976 (30/50)
+2015-08-10 00:41:05.014030 Processed 21 out of 200
+2015-08-10 00:41:08.108493 Processed 42 out of 200
+2015-08-10 00:41:10.383896 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1660
+Couldn't spawn new: the board is full!
+total moves =  856 out of  856
+Canonical score =  3104
+Couldn't spawn new: the board is full!
+total moves =  856 out of  856
+Canonical score =  3104
+score: 1660, canonical_score: 3104
+Solving seed 28635 (31/50)
+2015-08-10 00:41:13.413963 Processed 21 out of 200
+2015-08-10 00:41:15.528404 Processed 42 out of 200
+2015-08-10 00:41:17.089006 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1884
+Couldn't spawn new: the board is full!
+total moves =  810 out of  810
+Canonical score =  3590
+Couldn't spawn new: the board is full!
+total moves =  810 out of  810
+Canonical score =  3590
+score: 1884, canonical_score: 3590
+Solving seed 16520 (32/50)
+2015-08-10 00:41:19.591001 Processed 21 out of 200
+2015-08-10 00:41:21.791287 Processed 42 out of 200
+2015-08-10 00:41:23.860638 Processed 63 out of 200
+2015-08-10 00:41:25.418482 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+3196
+Couldn't spawn new: the board is full!
+total moves =  1005 out of  1005
+Canonical score =  4474
+Couldn't spawn new: the board is full!
+total moves =  1005 out of  1005
+Canonical score =  4474
+score: 3196, canonical_score: 4474
+Solving seed 22345 (33/50)
+2015-08-10 00:41:27.986235 Processed 21 out of 200
+2015-08-10 00:41:30.164934 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1552
+Couldn't spawn new: the board is full!
+total moves =  748 out of  748
+Canonical score =  2850
+Couldn't spawn new: the board is full!
+total moves =  748 out of  748
+Canonical score =  2850
+score: 1552, canonical_score: 2850
+Solving seed 22572 (34/50)
+2015-08-10 00:41:35.660554 Processed 21 out of 200
+2015-08-10 00:41:38.395139 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1320
+Couldn't spawn new: the board is full!
+total moves =  749 out of  749
+Canonical score =  3328
+Couldn't spawn new: the boacreatedWill write to dir: new_solutions/0205-swid
+Solving problem 3
+Solving seed 0 (0/5)
+2015-08-10 00:36:33.065294 Processed 11 out of 100
+2015-08-10 00:36:41.269748 Processed 22 out of 100
+2015-08-10 00:36:48.946529 Processed 33 out of 100
+2015-08-10 00:36:55.863262 Processed 44 out of 100
+2015-08-10 00:37:02.169237 Processed 55 out of 100
+2015-08-10 00:37:08.340791 Processed 66 out of 100
+2015-08-10 00:37:13.214681 Processed 77 out of 100
+2015-08-10 00:37:18.232809 Processed 88 out of 100
+2015-08-10 00:37:22.035525 Processed 99 out of 100
+No more figures (processed: 100)
+760
+No more figures (processed: 100)
+total moves =  2300 out of  2300
+Canonical score =  1864
+No more figures (processed: 100)
+total moves =  2300 out of  2300
+Canonical score =  1864
+score: 760, canonical_score: 1864
+Solving seed 29060 (1/5)
+2015-08-10 00:37:31.088843 Processed 11 out of 100
+2015-08-10 00:37:37.790264 Processed 22 out of 100
+2015-08-10 00:37:46.075836 Processed 33 out of 100
+2015-08-10 00:37:53.124518 Processed 44 out of 100
+2015-08-10 00:38:00.971967 Processed 55 out of 100
+2015-08-10 00:38:07.372516 Processed 66 out of 100
+2015-08-10 00:38:12.163149 Processed 77 out of 100
+2015-08-10 00:38:15.781110 Processed 88 out of 100
+2015-08-10 00:38:19.056653 Processed 99 out of 100
+No more figures (processed: 100)
+868
+No more figures (processed: 100)
+total moves =  2465 out of  2465
+Canonical score =  2242
+No more figures (processed: 100)
+total moves =  2465 out of  2465
+Canonical score =  2242
+score: 868, canonical_score: 2242
+Solving seed 6876 (2/5)
+2015-08-10 00:38:28.646308 Processed 11 out of 100
+2015-08-10 00:38:37.898758 Processed 22 out of 100
+2015-08-10 00:38:45.736127 Processed 33 out of 100
+2015-08-10 00:38:54.741386 Processed 44 out of 100
+2015-08-10 00:39:02.235064 Processed 55 out of 100
+2015-08-10 00:39:11.133385 Processed 66 out of 100
+2015-08-10 00:39:18.187474 Processed 77 out of 100
+2015-08-10 00:39:23.963631 Processed 88 out of 100
+2015-08-10 00:39:28.596215 Processed 99 out of 100
+No more figures (processed: 100)
+962
+No more figures (processed: 100)
+total moves =  2373 out of  2373
+Canonical score =  2862
+No more figures (processed: 100)
+total moves =  2373 out of  2373
+Canonical score =  2862
+score: 962, canonical_score: 2862
+Solving seed 31960 (3/5)
+2015-08-10 00:39:39.188395 Processed 11 out of 100
+2015-08-10 00:39:50.687627 Processed 22 out of 100
+2015-08-10 00:40:01.203364 Processed 33 out of 100
+2015-08-10 00:40:11.217744 Processed 44 out of 100
+2015-08-10 00:40:20.580546 Processed 55 out of 100
+2015-08-10 00:40:27.195801 Processed 66 out of 100
+2015-08-10 00:40:33.375537 Processed 77 out of 100
+2015-08-10 00:40:38.131196 Processed 88 out of 100
+2015-08-10 00:40:40.745434 Processed 99 out of 100
+No more figures (processed: 100)
+960
+No more figures (processed: 100)
+total moves =  2578 out of  2578
+Canonical score =  3158
+No more figures (processed: 100)
+total moves =  2578 out of  2578
+Canonical score =  3158
+score: 960, canonical_score: 3158
+Solving seed 6094 (4/5)
+2015-08-10 00:40:48.480301 Processed 11 out of 100
+2015-08-10 00:40:57.025156 Processed 22 out of 100
+2015-08-10 00:41:05.465314 Processed 33 out of 100
+2015-08-10 00:41:15.327886 Processed 44 out of 100
+2015-08-10 00:41:22.367626 Processed 55 out of 100
+2015-08-10 00:41:27.182041 Processed 66 out of 100
+2015-08-10 00:41:34.110693 Processed 77 out of 100
+2015-08-10 00:41:39.163306 Processed 88 out of 100
+2015-08-10 00:41:42.638219 Processed 99 out of 100
+No more figures (processed: 100)
+973
+No more figures (processed: 100)
+total moves =  2529 out of  2529
+Canonical score =  3131
+No more figures (processed: 100)
+total moves =  2529 out of  2529
+Canonical score =  3131
+score: 973, canonical_score: 3131
+Dumping solutions
+Wrote to file:  new_solutions/0205-swid/solution_3.json
+Ranks files wasn't specified using latest:  rankings/0060-rt3x.js
+Found:  {u'power_score': 4, u'tags': [u'v2_new_solutions/0164-d9iq_score_2651_5'], u'rank': 54, u'teamId': 143, u'score': 2651, u'team': u'Snakes vs Lambdas'}
+New score: 2651, current: 2651
+
+Sending by curl
+Test #3: 13257
+Total score: 13257
+Wrote to file:  new_solutions/0205-swid/solution.json
+Will write to dir: new_solutions/0212-ub35
+Solving problem 6
+Solving seed 0 (0/50)
+2015-08-10 00:41:43.890354 Processed 1 out of 150
+2015-08-10 00:41:43.911023 Processed 2 out of 150
+2015-08-10 00:41:43.995678 Processed 3 out of 150
+2015-08-10 00:41:44.081834 Processed 4 out of 150
+2015-08-10 00:41:44.118000 Processed 5 out of 150
+2015-08-10 00:41:44.194064 Processed 6 out of 150
+2015-08-10 00:41:44.230993 Processed 7 out of 150
+2015-08-10 00:41:44.247496 Processed 8 out of 150
+2015-08-10 00:41:44.336276 Processed 9 out of 150
+2015-08-10 00:41:44.382053 Processed 10 out of 150
+2015-08-10 00:41:44.397326 Processed 11 out of 150
+2015-08-10 00:41:44.514626 Processed 12 out of 150
+2015-08-10 00:41:44.580066 Processed 13 out of 150
+2015-08-10 00:41:44.667072 Processed 14 out of 150
+2015-08-10 00:41:44.758625 Processed 15 out of 150
+2015-08-10 00:41:44.810811 Processed 16 out of 150
+2015-08-10 00:41:44.832838 Processed 17 out of 150
+2015-08-10 00:41:44.921114 Processed 18 out of 150
+2015-08-10 00:41:45.010693 Processed 19 out of 150
+2015-08-10 00:41:45.067423 Processed 20 out of 150
+2015-08-10 00:41:45.211069 Processed 21 out of 150
+2015-08-10 00:41:45.321364 Processed 22 out of 150
+2015-08-10 00:41:45.436532 Processed 23 out of 150
+2015-08-10 00:41:45.450234 Processed 24 out of 150
+2015-08-10 00:41:45.548213 Processed 25 out of 150
+2015-08-10 00:41:45.668430 Processed 26 out of 150
+2015-08-10 00:41:45.751819 Processed 27 out of 150
+2015-08-10 00:41:45.847976 Processed 28 out of 150
+2015-08-10 00:41:45.894933 Processed 29 out of 150
+2015-08-10 00:41:45.999791 Processed 30 out of 150
+2015-08-10 00:41:46.107814 Processed 31 out of 150
+2015-08-10 00:41:46.195709 Processed 32 out of 150
+2015-08-10 00:41:46.284314 Processed 33 out of 150
+2015-08-10 00:41:46.303352 Processed 34 out of 150
+2015-08-10 00:41:46.394434 Processed 35 out of 150
+2015-08-10 00:41:46.496046 Processed 36 out of 150
+2015-08-10 00:41:46.566221 Processed 37 out of 150
+2015-08-10 00:41:46.609688 Processed 38 out of 150
+2015-08-10 00:41:46.706281 Processed 39 out of 150
+2015-08-10 00:41:46.812857 Processed 40 out of 150
+2015-08-10 00:41:46.912744 Processed 41 out of 150
+2015-08-10 00:41:47.002708 Processed 42 out of 150
+2015-08-10 00:41:47.042254 Processed 43 out of 150
+2015-08-10 00:41:47.149870 Processed 44 out of 150
+2015-08-10 00:41:47.163594 Processed 45 out of 150
+2015-08-10 00:41:47.210091 Processed 46 out of 150
+2015-08-10 00:41:47.258472 Processed 47 out of 150
+2015-08-10 00:41:47.303166 Processed 48 out of 150
+2015-08-10 00:41:47.314146 Processed 49 out of 150
+2015-08-10 00:41:47.351531 Processed 50 out of 150
+2015-08-10 00:41:47.425593 Processed 51 out of 150
+2015-08-10 00:41:47.520753 Processed 52 out of 150
+2015-08-10 00:41:47.614866 Processed 53 out of 150
+2015-08-10 00:41:47.717883 Processed 54 out of 150
+2015-08-10 00:41:47.741316 Processed 55 out of 150
+2015-08-10 00:41:47.813646 Processed 56 out of 150
+2015-08-10 00:41:47.853529 Processed 57 out of 150
+2015-08-10 00:41:47.871715 Processed 58 out of 150
+2015-08-10 00:41:47.955352 Processed 59 out of 150
+2015-08-10 00:41:47.975608 Processed 60 out of 150
+2015-08-10 00:41:47.994158 Processed 61 out of 150
+2015-08-10 00:41:48.012231 Processed 62 out of 150
+2015-08-10 00:41:48.095826 Processed 63 out of 150
+2015-08-10 00:41:48.171503 Processed 64 out of 150
+2015-08-10 00:41:48.276088 Processed 65 out of 150
+2015-08-10 00:41:48.326876 Processed 66 out of 150
+2015-08-10 00:41:48.337569 Processed 67 out of 150
+2015-08-10 00:41:48.354991 Processed 68 out of 150
+2015-08-10 00:41:48.447822 Processed 69 out of 150
+2015-08-10 00:41:48.528573 Processed 70 out of 150
+2015-08-10 00:41:48.570130 Processed 71 out of 150
+2015-08-10 00:41:48.640473 Processed 72 out of 150
+2015-08-10 00:41:48.739799 Processed 73 out of 150
+2015-08-10 00:41:48.813157 Processed 74 out of 150
+2015-08-10 00:41:48.905174 Processed 75 out of 150
+2015-08-10 00:41:48.923003 Processed 76 out of 150
+2015-08-10 00:41:48.943123 Processed 77 out of 150
+2015-08-10 00:41:48.993419 Processed 78 out of 150
+2015-08-10 00:41:49.097912 Processed 79 out of 150
+2015-08-10 00:41:49.190716 Processed 80 out of 150
+2015-08-10 00:41:49.279137 Processed 81 out of 150
+2015-08-10 00:41:49.380368 Processed 82 out of 150
+2015-08-10 00:41:49.424450 Processed 83 out of 150
+2015-08-10 00:41:49.474772 Processed 84 out of 150
+2015-08-10 00:41:49.492530 Processed 85 out of 150
+2015-08-10 00:41:49.585309 Processed 86 out of 150
+2015-08-10 00:41:49.696398 Processed 87 out of 150
+2015-08-10 00:41:49.790748 Processed 88 out of 150
+2015-08-10 00:41:49.802312 Processed 89 out of 150
+2015-08-10 00:41:49.883944 Processed 90 out of 150
+2015-08-10 00:41:49.904074 Processed 91 out of 150
+2015-08-10 00:41:49.997571 Processed 92 out of 150
+2015-08-10 00:41:50.031958 Processed 93 out of 150
+2015-08-10 00:41:50.102275 Processed 94 out of 150
+2015-08-10 00:41:50.200795 Processed 95 out of 150
+2015-08-10 00:41:50.292152 Processed 96 out of 150
+2015-08-10 00:41:50.379597 Processed 97 out of 150
+2015-08-10 00:41:50.474274 Processed 98 out of 150
+2015-08-10 00:41:50.490960 Processed 99 out of 150
+2015-08-10 00:41:50.582986 Processed 100 out of 150
+2015-08-10 00:41:50.659060 Processed 101 out of 150
+2015-08-10 00:41:50.747433 Processed 102 out of 150
+2015-08-10 00:41:50.823049 Processed 103 out of 150
+2015-08-10 00:41:50.935632 Processed 104 out of 150
+2015-08-10 00:41:50.975563 Processed 105 out of 150
+2015-08-10 00:41:51.076733 Processed 106 out of 150
+2015-08-10 00:41:51.182819 Processed 107 out of 150
+2015-08-10 00:41:51.220251 Processed 108 out of 150
+2015-08-10 00:41:51.315354 Processed 109 out of 150
+2015-08-10 00:41:51.400838 Processed 110 out of 150
+2015-08-10 00:41:51.456378 Processed 111 out of 150
+2015-08-10 00:41:51.536267 Processed 112 out of 150
+2015-08-10 00:41:51.627114 Processed 113 out of 150
+2015-08-10 00:41:51.721302 Processed 114 out of 150
+2015-08-10 00:41:51.817587 Processed 115 out of 150
+2015-08-10 00:41:51.907459 Processed 116 out of 150
+2015-08-10 00:41:52.004307 Processed 117 out of 150
+2015-08-10 00:41:52.090339 Processed 118 out of 150
+2015-08-10 00:41:52.179067 Processed 119 out of 150
+2015-08-10 00:41:52.216037 Processed 120 out of 150
+2015-08-10 00:41:52.261703 Processed 121 out of 150
+2015-08-10 00:41:52.354183 Processed 122 out of 150
+2015-08-10 00:41:52.400863 Processed 123 out of 150
+2015-08-10 00:41:52.471780 Processed 124 out of 150
+2015-08-10 00:41:52.554668 Processed 125 out of 150
+2015-08-10 00:41:52.671019 Processed 126 out of 150
+2015-08-10 00:41:52.762683 Processed 127 out of 150
+2015-08-10 00:41:52.856600 Processed 128 out of 150
+2015-08-10 00:41:52.936479 Processed 129 out of 150
+2015-08-10 00:41:53.028446 Processed 130 out of 150
+2015-08-10 00:41:53.126867 Processed 131 out of 150
+2015-08-10 00:41:53.169212 Processed 132 out of 150
+2015-08-10 00:41:53.241710 Processed 133 out of 150
+2015-08-10 00:41:53.330906 Processed 134 out of 150
+2015-08-10 00:41:53.343112 Processed 135 out of 150
+2015-08-10 00:41:53.375864 Processed 136 out of 150
+2015-08-10 00:41:53.447601 Processed 137 out of 150
+2015-08-10 00:41:53.525963 Processed 138 out of 150
+2015-08-10 00:41:53.600537 Processed 139 out of 150
+2015-08-10 00:41:53.649303 Processed 140 out of 150
+2015-08-10 00:41:53.731255 Processed 141 out of 150
+2015-08-10 00:41:53.749603 Processed 142 out of 150
+2015-08-10 00:41:53.826035 Processed 143 out of 150
+2015-08-10 00:41:53.903928 Processed 144 out of 150
+2015-08-10 00:41:53.991978 Processed 145 out of 150
+2015-08-10 00:41:54.068801 Processed 146 out of 150
+2015-08-10 00:41:54.080279 Processed 147 out of 150
+2015-08-10 00:41:54.174195 Processed 148 out of 150
+2015-08-10 00:41:54.255921 Processed 149 out of 150
+of 100
+2015-08-10 00:41:28.770686 Processed 80 out of 100
+2015-08-10 00:41:29.011407 Processed 81 out of 100
+2015-08-10 00:41:29.094023 Processed 82 out of 100
+2015-08-10 00:41:29.349728 Processed 83 out of 100
+2015-08-10 00:41:29.622511 Processed 84 out of 100
+2015-08-10 00:41:30.012811 Processed 85 out of 100
+2015-08-10 00:41:30.402825 Processed 86 out of 100
+2015-08-10 00:41:30.868330 Processed 87 out of 100
+2015-08-10 00:41:31.349110 Processed 88 out of 100
+2015-08-10 00:41:31.530615 Processed 89 out of 100
+2015-08-10 00:41:31.925628 Processed 90 out of 100
+2015-08-10 00:41:32.323779 Processed 91 out of 100
+2015-08-10 00:41:32.740570 Processed 92 out of 100
+2015-08-10 00:41:33.112235 Processed 93 out of 100
+2015-08-10 00:41:33.490980 Processed 94 out of 100
+2015-08-10 00:41:33.673340 Processed 95 out of 100
+2015-08-10 00:41:34.023963 Processed 96 out of 100
+2015-08-10 00:41:34.373849 Processed 97 out of 100
+2015-08-10 00:41:34.705207 Processed 98 out of 100
+2015-08-10 00:41:35.068270 Processed 99 out of 100
+No more figures (processed: 100)
+1060
+No more figures (processed: 100)
+total moves =  2521 out of  2521
+Canonical score =  3390
+No more figures (processed: 100)
+total moves =  2521 out of  2521
+Canonical score =  3390
+score: 1060, canonical_score: 3390
+Solving seed 22837 (1/10)
+2015-08-10 00:41:36.263555 Processed 1 out of 100
+2015-08-10 00:41:37.272579 Processed 2 out of 100
+2015-08-10 00:41:37.566855 Processed 3 out of 100
+2015-08-10 00:41:38.538122 Processed 4 out of 100
+2015-08-10 00:41:38.738432 Processed 5 out of 100
+2015-08-10 00:41:39.484616 Processed 6 out of 100
+2015-08-10 00:41:40.184897 Processed 7 out of 100
+2015-08-10 00:41:40.370715 Processed 8 out of 100
+2015-08-10 00:41:41.082766 Processed 9 out of 100
+2015-08-10 00:41:41.785263 Processed 10 out of 100
+2015-08-10 00:41:42.479657 Processed 11 out of 100
+2015-08-10 00:41:42.658180 Processed 12 out of 100
+2015-08-10 00:41:42.819741 Processed 13 out of 100
+2015-08-10 00:41:43.450074 Processed 14 out of 100
+2015-08-10 00:41:44.137055 Processed 15 out of 100
+2015-08-10 00:41:44.942217 Processed 16 out of 100
+2015-08-10 00:41:45.705876 Processed 17 out of 100
+2015-08-10 00:41:46.291058 Processed 18 out of 100
+2015-08-10 00:41:46.930036 Processed 19 out of 100
+2015-08-10 00:41:47.639948 Processed 20 out of 100
+2015-08-10 00:41:48.302491 Processed 21 out of 100
+2015-08-10 00:41:48.666146 Processed 22 out of 100
+2015-08-10 00:41:49.420512 Processed 23 out of 100
+2015-08-10 00:41:49.757066 Processed 24 out of 100
+2015-08-10 00:41:50.392180 Processed 25 out of 100
+2015-08-10 00:41:50.803857 Processed 26 out of 100
+2015-08-10 00:41:50.936025 Processed 27 out of 100
+2015-08-10 00:41:51.446012 Processed 28 out of 100
+2015-08-10 00:41:51.843078 Processed 29 out of 100
+2015-08-10 00:41:51.974776 Processed 30 out of 100
+2015-08-10 00:41:52.540626 Processed 31 out of 100
+2015-08-10 00:41:52.882917 Processed 32 out of 100
+2015-08-10 00:41:53.431224 Processed 33 out of 100
+2015-08-10 00:41:53.811323 Processed 34 out of 100
+2015-08-10 00:41:53.911910 Processed 35 out of 100
+2015-08-10 00:41:54.263196 Processed 36 out of 100
+2015-08-10 00:41:54.628063 Processed 37 out of 100
+2015-08-10 00:41:54.988212 Processed 38 out of 100
+2015-08-10 00:41:55.310564 Processed 39 out of 100
+2015-08-10 00:41:55.384832 Processed 40 out of 100
+2015-08-10 00:41:55.605812 Processed 41 out of 100
+2015-08-10 00:41:55.888978 Processed 42 out of 100
+2015-08-10 00:41:56.146415 Processed 43 out of 100
+2015-08-10 00:41:56.393470 Processed 44 out of 100
+2015-08-10 00:41:56.582646 Processed 45 out of 100
+2015-08-10 00:41:56.761910 Processed 46 out of 100
+2015-08-10 00:41:56.950468 Processed 47 out of 100
+2015-08-10 00:41:57.201597 Processed 48 out of 100
+2015-08-10 00:41:57.429862 Processed 49 out of 100
+2015-08-10 00:41:57.695418 Processed 50 out of 100
+2015-08-10 00:41:57.957470 Processed 51 out of 100
+2015-08-10 00:41:58.204724 Processed 52 out of 100
+2015-08-10 00:41:58.419670 Processed 53 out of 100
+2015-08-10 00:41:58.636237 Processed 54 out of 100
+2015-08-10 00:41:58.872205 Processed 55 out of 100
+2015-08-10 00:41:58.939074 Processed 56 out of 100
+2015-08-10 00:41:59.061145 Processed 57 out of 100
+2015-08-10 00:41:59.254539 Processed 58 out of 100
+2015-08-10 00:41:59.365517 Processed 59 out of 100
+2015-08-10 00:41:59.473690 Processed 60 out of 100
+2015-08-10 00:41:59.676899 Processed 61 out of 100
+2015-08-10 00:41:59.901701 Processed 62 out of 100
+2015-08-10 00:42:00.113835 Processed 63 out of 100
+2015-08-10 00:42:00.298481 Processed 64 out of 100
+2015-08-10 00:42:00.357621 Processed 65 out of 100
+2015-08-10 00:42:00.542376 Processed 66 out of 100
+2015-08-10 00:42:00.778134 Processed 67 out of 100
+2015-08-10 00:42:00.945578 Processed 68 out of 100
+2015-08-10 00:42:01.114431 Processed 69 out of 100
+2015-08-10 00:42:01.344340 Processed 70 out of 100
+2015-08-10 00:42:01.535131 Processed 71 out of 100
+2015-08-10 00:42:01.712039 Processed 72 out of 100
+2015-08-10 00:42:01.914013 Processed 73 out of 100
+2015-08-10 00:42:02.199427 Processed 74 out of 100
+2015-08-10 00:42:02.415765 Processed 75 out of 100
+2015-08-10 00:42:02.590791 Processed 76 out of 100
+2015-08-10 00:42:02.776652 Processed 77 out of 100
+2015-08-10 00:42:02.984912 Processed 78 out of 100
+2015-08-10 00:42:03.155382 Processed 79 out of 100
+2015-08-10 00:42:03.338714 Processed 80 out of 100
+2015-08-10 00:42:03.436935 Processed 81 out of 100
+2015-08-10 00:42:03.612889 Processed 82 out of 100
+2015-08-10 00:42:03.779355 Processed 83 out of 100
+2015-08-10 00:42:03.949185 Processed 84 out of 100
+2015-08-10 00:42:04.114242 Processed 85 out of 100
+2015-08-10 00:42:04.264441 Processed 86 out of 100
+2015-08-10 00:42:04.432371 Processed 87 out of 100
+2015-08-10 00:42:04.593979 Processed 88 out of 100
+2015-08-10 00:42:04.758919 Processed 89 out of 100
+2015-08-10 00:42:04.969392 Processed 90 out of 100
+2015-08-10 00:42:05.147976 Processed 91 out of 100
+2015-08-10 00:42:05.322823 Processed 92 out of 100
+2015-08-10 00:42:05.493932 Processed 93 out of 100
+2015-08-10 00:42:05.676453 Processed 94 out of 100
+2015-08-10 00:42:05.766150 Processed 95 out of 100
+2015-08-10 00:42:05.958954 Processed 96 out of 100
+2015-08-10 00:42:06.140810 Processed 97 out of 100
+2015-08-10 00:42:06.333770 Processed 98 out of 100
+2015-08-10 00:42:06.422310 Processed 99 out of 100
+No more figures (processed: 100)
+956
+No more figures (processed: 100)
+total moves =  2543 out of  2543
+Canonical score =  2516
+No more figures (processed: 100)
+total moves =  2543 out of  2543
+Canonical score =  2516
+score: 956, canonical_score: 2516
+Solving seed 22837 (2/10)
+2015-08-10 00:42:06.849987 Processed 1 out of 100
+2015-08-10 00:42:07.307503 Processed 2 out of 100
+2015-08-10 00:42:07.440349 Processed 3 out of 100
+2015-08-10 00:42:07.908682 Processed 4 out of 100
+2015-08-10 00:42:08.040956 Processed 5 out of 100
+2015-08-10 00:42:08.500756 Processed 6 out of 100
+2015-08-10 00:42:08.948621 Processed 7 out of 100
+2015-08-10 00:42:09.080066 Processed 8 out of 100
+2015-08-10 00:42:09.552700 Processed 9 out of 100
+2015-08-10 00:42:10.023284 Processed 10 out of 100
+2015-08-10 00:42:10.495207 Processed 11 out of 100
+2015-08-10 00:42:10.615708 Processed 12 out of 100
+2015-08-10 00:42:10.730889 Processed 13 out of 100
+2015-08-10 00:42:11.184755 Processed 14 out of 100
+2015-08-10 00:42:11.634370 Processed 15 out of 100
+2015-08-10 00:42:12.150927 Processed 16 out of 100
+2015-08-10 00:42:12.594729 Processed 17 out of 100
+2015-08-10 00:42:12.941231 Processed 18 out of 100
+2015-08-10 00:42:13.416900 Processed 19 out of 100
+2015-08-10 00:42:13.881860 Processed 20 out of 100
+2015-08-10 00:42:14.323912 Processed 21 out of 100
+2015-08-10 00:42:14.565904 Processed 22 out of 100
+2015-08-10 00:42:15.070920 Processed 23 out of 100
+2015-08-10 00:42:15.309732 Processed 24 out of 100
+2015-08-10 00:42:15.726783 Processed 25 out of 100
+2015-08-10 00:42:15.993052 Processed 26 out of 100
+2015-08-10 00:42:16.092158 Processed 27 out of 100
+2015-08-10 00:42:16.454807 Processed 28 out of 100
+2015-08-10 00:42:16.733994 Processed 29 out of 100
+2015-08-10 00:42:16.828055 Processed 30 out of 100
+2015-08-10 00:42:17.187137 Processed 31 out of 1rd is full!
+total moves =  749 out of  749
+Canonical score =  3328
+score: 1320, canonical_score: 3328
+Solving seed 12272 (35/50)
+2015-08-10 00:41:41.832983 Processed 21 out of 200
+2015-08-10 00:41:43.827645 Processed 42 out of 200
+2015-08-10 00:41:46.022411 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2312
+Couldn't spawn new: the board is full!
+total moves =  986 out of  986
+Canonical score =  4080
+Couldn't spawn new: the board is full!
+total moves =  986 out of  986
+Canonical score =  4080
+score: 2312, canonical_score: 4080
+Solving seed 6532 (36/50)
+2015-08-10 00:41:49.435324 Processed 21 out of 200
+2015-08-10 00:41:51.441552 Processed 42 out of 200
+2015-08-10 00:41:53.279972 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+1988
+Couldn't spawn new: the board is full!
+total moves =  792 out of  792
+Canonical score =  3318
+Couldn't spawn new: the board is full!
+total moves =  792 out of  792
+Canonical score =  3318
+score: 1988, canonical_score: 3318
+Solving seed 2148 (37/50)
+2015-08-10 00:41:55.415696 Processed 21 out of 200
+2015-08-10 00:41:56.716688 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1540
+Couldn't spawn new: the board is full!
+total moves =  792 out of  792
+Canonical score =  3570
+Couldn't spawn new: the board is full!
+total moves =  792 out of  792
+Canonical score =  3570
+score: 1540, canonical_score: 3570
+Solving seed 23344 (38/50)
+2015-08-10 00:41:59.087389 Processed 21 out of 200
+2015-08-10 00:42:00.519688 Processed 42 out of 200
+2015-08-10 00:42:02.201651 Processed 63 out of 200
+2015-08-10 00:42:03.661752 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+3092
+Couldn't spawn new: the board is full!
+total moves =  1107 out of  1107
+Canonical score =  5140
+Couldn't spawn new: the board is full!
+total moves =  1107 out of  1107
+Canonical score =  5140
+score: 3092, canonical_score: 5140
+Solving seed 19542 (39/50)
+2015-08-10 00:42:05.659583 Processed 21 out of 200
+2015-08-10 00:42:07.065455 Processed 42 out of 200
+2015-08-10 00:42:08.108007 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2312
+Couldn't spawn new: the board is full!
+total moves =  891 out of  891
+Canonical score =  4042
+Couldn't spawn new: the board is full!
+total moves =  891 out of  891
+Canonical score =  4042
+score: 2312, canonical_score: 4042
+Solving seed 22290 (40/50)
+2015-08-10 00:42:09.917769 Processed 21 out of 200
+2015-08-10 00:42:11.271784 Processed 42 out of 200
+2015-08-10 00:42:12.635551 Processed 63 out of 200
+2015-08-10 00:42:13.914208 Processed 84 out of 200
+2015-08-10 00:42:15.120709 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+3636
+Couldn't spawn new: the board is full!
+total moves =  1188 out of  1188
+Canonical score =  5030
+Couldn't spawn new: the board is full!
+total moves =  1188 out of  1188
+Canonical score =  5030
+score: 3636, canonical_score: 5030
+Solving seed 2586 (41/50)
+2015-08-10 00:42:16.573289 Processed 21 out of 200
+2015-08-10 00:42:17.853030 Processed 42 out of 200
+2015-08-10 00:42:19.399988 Processed 63 out of 200
+2015-08-10 00:42:20.807023 Processed 84 out of 200
+2015-08-10 00:42:21.833952 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+3528
+Couldn't spawn new: the board is full!
+total moves =  1559 out of  1559
+Canonical score =  5856
+Couldn't spawn new: the board is full!
+total moves =  1559 out of  1559
+Canonical score =  5856
+score: 3528, canonical_score: 5856
+Solving seed 19530 (42/50)
+2015-08-10 00:42:23.367306 Processed 21 out of 200
+2015-08-10 00:42:24.821533 Processed 42 out of 200
+2015-08-10 00:42:26.214680 Processed 63 out of 200
+2015-08-10 00:42:27.537183 Processed 84 out of 200
+2015-08-10 00:42:28.633339 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+3970
+Couldn't spawn new: the board is full!
+total moves =  1516 out of  1516
+Canonical score =  6476
+Couldn't spawn new: the board is full!
+total moves =  1516 out of  1516
+Canonical score =  6476
+score: 3970, canonical_score: 6476
+Solving seed 11006 (43/50)
+2015-08-10 00:42:30.446329 Processed 21 out of 200
+2015-08-10 00:42:300
+2015-08-10 00:42:17.425172 Processed 32 out of 100
+2015-08-10 00:42:17.783349 Processed 33 out of 100
+2015-08-10 00:42:18.041616 Processed 34 out of 100
+2015-08-10 00:42:18.130866 Processed 35 out of 100
+2015-08-10 00:42:18.366780 Processed 36 out of 100
+2015-08-10 00:42:18.732013 Processed 37 out of 100
+2015-08-10 00:42:19.100653 Processed 38 out of 100
+2015-08-10 00:42:19.436109 Processed 39 out of 100
+2015-08-10 00:42:19.514218 Processed 40 out of 100
+2015-08-10 00:42:19.765968 Processed 41 out of 100
+2015-08-10 00:42:20.060806 Processed 42 out of 100
+2015-08-10 00:42:20.346370 Processed 43 out of 100
+2015-08-10 00:42:20.602372 Processed 44 out of 100
+2015-08-10 00:42:20.814040 Processed 45 out of 100
+2015-08-10 00:42:20.998720 Processed 46 out of 100
+2015-08-10 00:42:21.185379 Processed 47 out of 100
+2015-08-10 00:42:21.415801 Processed 48 out of 100
+2015-08-10 00:42:21.639417 Processed 49 out of 100
+2015-08-10 00:42:21.901035 Processed 50 out of 100
+2015-08-10 00:42:22.157850 Processed 51 out of 100
+2015-08-10 00:42:22.420535 Processed 52 out of 100
+2015-08-10 00:42:22.646112 Processed 53 out of 100
+2015-08-10 00:42:22.871638 Processed 54 out of 100
+2015-08-10 00:42:23.122713 Processed 55 out of 100
+2015-08-10 00:42:23.190887 Processed 56 out of 100
+2015-08-10 00:42:23.310474 Processed 57 out of 100
+2015-08-10 00:42:23.504622 Processed 58 out of 100
+2015-08-10 00:42:23.615211 Processed 59 out of 100
+2015-08-10 00:42:23.721080 Processed 60 out of 100
+2015-08-10 00:42:23.927887 Processed 61 out of 100
+2015-08-10 00:42:24.133632 Processed 62 out of 100
+2015-08-10 00:42:24.335865 Processed 63 out of 100
+2015-08-10 00:42:24.515381 Processed 64 out of 100
+2015-08-10 00:42:24.574791 Processed 65 out of 100
+2015-08-10 00:42:24.759584 Processed 66 out of 100
+2015-08-10 00:42:24.952037 Processed 67 out of 100
+2015-08-10 00:42:25.124176 Processed 68 out of 100
+2015-08-10 00:42:25.290369 Processed 69 out of 100
+2015-08-10 00:42:25.463208 Processed 70 out of 100
+2015-08-10 00:42:25.628457 Processed 71 out of 100
+2015-08-10 00:42:25.794536 Processed 72 out of 100
+2015-08-10 00:42:25.970079 Processed 73 out of 100
+2015-08-10 00:42:26.146075 Processed 74 out of 100
+2015-08-10 00:42:26.311445 Processed 75 out of 100
+2015-08-10 00:42:26.487218 Processed 76 out of 100
+2015-08-10 00:42:26.656404 Processed 77 out of 100
+2015-08-10 00:42:26.821773 Processed 78 out of 100
+2015-08-10 00:42:26.988549 Processed 79 out of 100
+2015-08-10 00:42:27.164773 Processed 80 out of 100
+2015-08-10 00:42:27.253020 Processed 81 out of 100
+2015-08-10 00:42:27.418187 Processed 82 out of 100
+2015-08-10 00:42:27.585488 Processed 83 out of 100
+2015-08-10 00:42:27.753214 Processed 84 out of 100
+2015-08-10 00:42:27.915099 Processed 85 out of 100
+2015-08-10 00:42:28.065210 Processed 86 out of 100
+2015-08-10 00:42:28.224405 Processed 87 out of 100
+2015-08-10 00:42:28.370978 Processed 88 out of 100
+2015-08-10 00:42:28.533892 Processed 89 out of 100
+2015-08-10 00:42:28.711150 Processed 90 out of 100
+2015-08-10 00:42:28.884153 Processed 91 out of 100
+2015-08-10 00:42:29.055087 Processed 92 out of 100
+2015-08-10 00:42:29.226299 Processed 93 out of 100
+2015-08-10 00:42:29.410059 Processed 94 out of 100
+2015-08-10 00:42:29.496859 Processed 95 out of 100
+2015-08-10 00:42:29.684703 Processed 96 out of 100
+2015-08-10 00:42:29.859198 Processed 97 out of 100
+2015-08-10 00:42:30.050239 Processed 98 out of 100
+2015-08-10 00:42:30.141944 Processed 99 out of 100
+No more figures (processed: 100)
+956
+No more figures (processed: 100)
+total moves =  2543 out of  2543
+Canonical score =  2516
+No more figures (processed: 100)
+total moves =  2543 out of  2543
+Canonical score =  2516
+score: 956, canonical_score: 2516
+Solving seed 15215 (3/10)
+2015-08-10 00:42:30.570017 Processed 1 out of 100
+2015-08-10 00:42:31.094878 Processed 2 out of 100
+2015-08-10 00:42:31.585074 Processed 3 out of 100
+2015-08-10 00:42:32.047461 Processed 4 out of 100
+2015-08-10 00:42:32.508542 Processed 5 out of 100
+2015-08-10 00:42:32.773196 Processed 6 out of 100
+2015-08-10 00:42:33.271376 Processed 7 out of 100
+2015-08-10 00:42:33.561556 Processed 8 out of 100
+2015-08-10 00:42:34.019575 Processed 9 out of 100
+2015-08-10 00:42:34.522934 Processed 10 out of 100
+2015-08-10 00:42:34.768294 Processed 11 out of 100
+2015-08-10 00:42:35.031897 Processed 12 out of 100
+2015-08-10 00:42:35.507364 Processed 13 out of 100
+2015-08-10 00:42:36.008063 Processed 14 out of 100
+2015-08-10 00:42:36.460507 Processed 15 out of 100
+2015-08-10 00:42:37.005519 Processed 16 out of 100
+2015-08-10 00:42:37.116435 Processed 17 out of 100
+2015-08-10 00:42:37.585895 Processed 18 out of 100
+2015-08-10 00:42:37.852656 Processed 19 out of 100
+2015-08-10 00:42:38.197219 Processed 20 out of 100
+2015-08-10 00:42:38.694629 Processed 21 out of 100
+2015-08-10 00:42:39.152193 Processed 22 out of 100
+2015-08-10 00:42:39.618166 Processed 23 out of 100
+2015-08-10 00:42:40.053038 Processed 24 out of 100
+2015-08-10 00:42:40.484399 Processed 25 out of 100
+2015-08-10 00:42:40.891341 Processed 26 out of 100
+2015-08-10 00:42:41.326070 Processed 27 out of 100
+2015-08-10 00:42:41.743547 Processed 28 out of 100
+2015-08-10 00:42:42.455743 Processed 29 out of 100
+2015-08-10 00:42:42.906161 Processed 30 out of 100
+2015-08-10 00:42:43.330412 Processed 31 out of 100
+2015-08-10 00:42:43.777992 Processed 32 out of 100
+2015-08-10 00:42:44.056663 Processed 33 out of 100
+2015-08-10 00:42:44.313909 Processed 34 out of 100
+2015-08-10 00:42:44.539103 Processed 35 out of 100
+2015-08-10 00:42:44.905082 Processed 36 out of 100
+2015-08-10 00:42:45.204982 Processed 37 out of 100
+2015-08-10 00:42:45.538306 Processed 38 out of 100
+2015-08-10 00:42:45.869743 Processed 39 out of 100
+2015-08-10 00:42:46.160718 Processed 40 out of 100
+2015-08-10 00:42:46.274850 Processed 41 out of 100
+2015-08-10 00:42:46.535674 Processed 42 out of 100
+2015-08-10 00:42:46.819130 Processed 43 out of 100
+2015-08-10 00:42:47.166092 Processed 44 out of 100
+2015-08-10 00:42:47.440467 Processed 45 out of 100
+2015-08-10 00:42:47.682629 Processed 46 out of 100
+2015-08-10 00:42:47.912517 Processed 47 out of 100
+2015-08-10 00:42:48.130240 Processed 48 out of 100
+2015-08-10 00:42:48.390559 Processed 49 out of 100
+2015-08-10 00:42:48.638232 Processed 50 out of 100
+2015-08-10 00:42:48.849237 Processed 51 out of 100
+2015-08-10 00:42:49.059319 Processed 52 out of 100
+2015-08-10 00:42:49.266638 Processed 53 out of 100
+2015-08-10 00:42:49.492639 Processed 54 out of 100
+2015-08-10 00:42:49.719168 Processed 55 out of 100
+2015-08-10 00:42:49.913385 Processed 56 out of 100
+2015-08-10 00:42:50.179829 Processed 57 out of 100
+2015-08-10 00:42:50.477775 Processed 58 out of 100
+2015-08-10 00:42:50.681882 Processed 59 out of 100
+2015-08-10 00:42:50.788108 Processed 60 out of 100
+2015-08-10 00:42:50.973644 Processed 61 out of 100
+2015-08-10 00:42:51.056400 Processed 62 out of 100
+2015-08-10 00:42:51.261661 Processed 63 out of 100
+2015-08-10 00:42:51.361352 Processed 64 out of 100
+2015-08-10 00:42:51.548580 Processed 65 out of 100
+2015-08-10 00:42:51.735653 Processed 66 out of 100
+2015-08-10 00:42:51.925832 Processed 67 out of 100
+2015-08-10 00:42:52.092330 Processed 68 out of 100
+2015-08-10 00:42:52.352246 Processed 69 out of 100
+2015-08-10 00:42:52.514230 Processed 70 out of 100
+2015-08-10 00:42:52.680486 Processed 71 out of 100
+2015-08-10 00:42:52.842326 Processed 72 out of 100
+2015-08-10 00:42:53.018990 Processed 73 out of 100
+2015-08-10 00:42:53.253185 Processed 74 out of 100
+2015-08-10 00:42:53.491590 Processed 75 out of 100
+2015-08-10 00:42:53.634434 Processed 76 out of 100
+2015-08-10 00:42:53.807018 Processed 77 out of 100
+2015-08-10 00:42:54.021499 Processed 78 out of 100
+2015-08-10 00:42:54.273059 Processed 79 out of 100
+2015-08-10 00:42:54.498343 Processed 80 out of 100
+2015-08-10 00:42:54.600219 Processed 81 out of 100
+2015-08-10 00:42:54.811985 Processed 82 out of 100
+2015-08-10 00:42:55.020104 Processed 83 out of 100
+2015-08-10 00:42:55.209218 Processed 84 out of 100
+2015-08-10 00:42:55.415749 Processed 85 out of 100
+2015-08-10 00:42:55.474987 Processed 86 out of 100
+2015-08-10 00:42:55.728427 Processed 87 out of 100
+2015-08-10 00:421.982885 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1000
+Couldn't spawn new: the board is full!
+total moves =  617 out of  617
+Canonical score =  2244
+Couldn't spawn new: the board is full!
+total moves =  617 out of  617
+Canonical score =  2244
+score: 1000, canonical_score: 2244
+Solving seed 8700 (44/50)
+2015-08-10 00:42:33.771995 Processed 21 out of 200
+2015-08-10 00:42:35.161788 Processed 42 out of 200
+2015-08-10 00:42:36.612951 Processed 63 out of 200
+2015-08-10 00:42:37.788281 Processed 84 out of 200
+Couldn't spawn new: the board is full!
+2760
+Couldn't spawn new: the board is full!
+total moves =  1276 out of  1276
+Canonical score =  4926
+Couldn't spawn new: the board is full!
+total moves =  1276 out of  1276
+Canonical score =  4926
+score: 2760, canonical_score: 4926
+Solving seed 30014 (45/50)
+2015-08-10 00:42:39.337301 Processed 21 out of 200
+2015-08-10 00:42:40.584610 Processed 42 out of 200
+2015-08-10 00:42:42.200048 Processed 63 out of 200
+2015-08-10 00:42:43.753457 Processed 84 out of 200
+2015-08-10 00:42:45.125730 Processed 105 out of 200
+2015-08-10 00:42:46.654774 Processed 126 out of 200
+Couldn't spawn new: the board is full!
+5390
+Couldn't spawn new: the board is full!
+total moves =  1951 out of  1951
+Canonical score =  7850
+Couldn't spawn new: the board is full!
+total moves =  1951 out of  1951
+Canonical score =  7850
+score: 5390, canonical_score: 7850
+Solving seed 21695 (46/50)
+2015-08-10 00:42:49.152340 Processed 21 out of 200
+2015-08-10 00:42:50.753289 Processed 42 out of 200
+2015-08-10 00:42:52.269799 Processed 63 out of 200
+Couldn't spawn new: the board is full!
+2432
+Couldn't spawn new: the board is full!
+total moves =  958 out of  958
+Canonical score =  4120
+Couldn't spawn new: the board is full!
+total moves =  958 out of  958
+Canonical score =  4120
+score: 2432, canonical_score: 4120
+Solving seed 26153 (47/50)
+2015-08-10 00:42:54.919646 Processed 21 out of 200
+2015-08-10 00:42:56.525350 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1648
+Couldn't spawn new: the board is full!
+total moves =  785 out of  785
+Canonical score =  3326
+Couldn't spawn new: the board is full!
+total moves =  785 out of  785
+Canonical score =  3326
+score: 1648, canonical_score: 3326
+Solving seed 13694 (48/50)
+2015-08-10 00:42:59.656330 Processed 21 out of 200
+2015-08-10 00:43:01.563374 Processed 42 out of 200
+2015-08-10 00:43:03.141983 Processed 63 out of 200
+2015-08-10 00:43:04.579464 Processed 84 out of 200
+2015-08-10 00:43:05.995626 Processed 105 out of 200
+Couldn't spawn new: the board is full!
+3636
+Couldn't spawn new: the board is full!
+total moves =  1648 out of  1648
+Canonical score =  6088
+Couldn't spawn new: the board is full!
+total moves =  1648 out of  1648
+Canonical score =  6088
+score: 3636, canonical_score: 6088
+Solving seed 20701 (49/50)
+2015-08-10 00:43:07.869382 Processed 21 out of 200
+2015-08-10 00:43:09.344583 Processed 42 out of 200
+Couldn't spawn new: the board is full!
+1324
+Couldn't spawn new: the board is full!
+total moves =  765 out of  765
+Canonical score =  3390
+Couldn't spawn new: the board is full!
+total moves =  765 out of  765
+Canonical score =  3390
+score: 1324, canonical_score: 3390
+Dumping solutions
+Wrote to file:  new_solutions/0206-8395/solution_4.json
+Ranks files wasn't specified using latest:  rankings/0061-bw0p.js
+Found:  {u'power_score': 4, u'tags': [u'v2_new_solutions/0142-au9s_score_4480_4'], u'rank': 39, u'teamId': 143, u'score': 4480, u'team': u'Snakes vs Lambdas'}
+New score: 4471, current: 4480
+Refusing to send
+Test #4: 223564
+Total score: 223564
+Wrote to file:  new_solutions/0206-8395/solution.json
+:56.001988 Processed 88 out of 100
+2015-08-10 00:42:56.256581 Processed 89 out of 100
+2015-08-10 00:42:56.488890 Processed 90 out of 100
+2015-08-10 00:42:56.560921 Processed 91 out of 100
+2015-08-10 00:42:56.772116 Processed 92 out of 100
+2015-08-10 00:42:57.055426 Processed 93 out of 100
+2015-08-10 00:42:57.131547 Processed 94 out of 100
+2015-08-10 00:42:57.378078 Processed 95 out of 100
+2015-08-10 00:42:57.519735 Processed 96 out of 100
+2015-08-10 00:42:57.748664 Processed 97 out of 100
+2015-08-10 00:42:57.964188 Processed 98 out of 100
+2015-08-10 00:42:58.193547 Processed 99 out of 100
+No more figures (processed: 100)
+763
+No more figures (processed: 100)
+total moves =  2301 out of  2301
+Canonical score =  1915
+No more figures (processed: 100)
+total moves =  2301 out of  2301
+Canonical score =  1915
+score: 763, canonical_score: 1915
+Solving seed 24851 (4/10)
+2015-08-10 00:42:58.774580 Processed 1 out of 100
+2015-08-10 00:42:59.346050 Processed 2 out of 100
+2015-08-10 00:42:59.909308 Processed 3 out of 100
+2015-08-10 00:43:00.580702 Processed 4 out of 100
+2015-08-10 00:43:01.182059 Processed 5 out of 100
+2015-08-10 00:43:01.709173 Processed 6 out of 100
+2015-08-10 00:43:02.003982 Processed 7 out of 100
+2015-08-10 00:43:02.527994 Processed 8 out of 100
+2015-08-10 00:43:02.840741 Processed 9 out of 100
+2015-08-10 00:43:03.350118 Processed 10 out of 100
+2015-08-10 00:43:03.612876 Processed 11 out of 100
+2015-08-10 00:43:03.896203 Processed 12 out of 100
+2015-08-10 00:43:04.464757 Processed 13 out of 100
+2015-08-10 00:43:05.017718 Processed 14 out of 100
+2015-08-10 00:43:05.547845 Processed 15 out of 100
+2015-08-10 00:43:06.061076 Processed 16 out of 100
+2015-08-10 00:43:06.588369 Processed 17 out of 100
+2015-08-10 00:43:07.136569 Processed 18 out of 100
+2015-08-10 00:43:07.668863 Processed 19 out of 100
+2015-08-10 00:43:07.957952 Processed 20 out of 100
+2015-08-10 00:43:08.452534 Processed 21 out of 100
+2015-08-10 00:43:08.949160 Processed 22 out of 100
+2015-08-10 00:43:09.430395 Processed 23 out of 100
+2015-08-10 00:43:09.880660 Processed 24 out of 100
+2015-08-10 00:43:10.173477 Processed 25 out of 100
+2015-08-10 00:43:10.620715 Processed 26 out of 100
+2015-08-10 00:43:11.113021 Processed 27 out of 100
+2015-08-10 00:43:11.581113 Processed 28 out of 100
+2015-08-10 00:43:12.038861 Processed 29 out of 100
+2015-08-10 00:43:12.511303 Processed 30 out of 100
+2015-08-10 00:43:12.897624 Processed 31 out of 100
+2015-08-10 00:43:13.298506 Processed 32 out of 100
+2015-08-10 00:43:13.665708 Processed 33 out of 100
+2015-08-10 00:43:13.913234 Processed 34 out of 100
+2015-08-10 00:43:14.136260 Processed 35 out of 100
+2015-08-10 00:43:14.387069 Processed 36 out of 100
+2015-08-10 00:43:14.753113 Processed 37 out of 100
+2015-08-10 00:43:15.044294 Processed 38 out of 100
+2015-08-10 00:43:15.271498 Processed 39 out of 100
+2015-08-10 00:43:15.563353 Processed 40 out of 100
+2015-08-10 00:43:15.660986 Processed 41 out of 100
+2015-08-10 00:43:15.993731 Processed 42 out of 100
+2015-08-10 00:43:16.279082 Processed 43 out of 100
+2015-08-10 00:43:16.362834 Processed 44 out of 100
+2015-08-10 00:43:16.632126 Processed 45 out of 100
+2015-08-10 00:43:16.866613 Processed 46 out of 100
+2015-08-10 00:43:17.134361 Processed 47 out of 100
+2015-08-10 00:43:17.357557 Processed 48 out of 100
+2015-08-10 00:43:17.625811 Processed 49 out of 100
+2015-08-10 00:43:17.847707 Processed 50 out of 100
+2015-08-10 00:43:18.009026 Processed 51 out of 100
+2015-08-10 00:43:18.231612 Processed 52 out of 100
+2015-08-10 00:43:18.459283 Processed 53 out of 100
+2015-08-10 00:43:18.700442 Processed 54 out of 100
+2015-08-10 00:43:18.892977 Processed 55 out of 100
+2015-08-10 00:43:19.099567 Processed 56 out of 100
+2015-08-10 00:43:19.316378 Processed 57 out of 100
+2015-08-10 00:43:19.518379 Processed 58 out of 100
+2015-08-10 00:43:19.747739 Processed 59 out of 100
+2015-08-10 00:43:19.949001 Processed 60 out of 100
+2015-08-10 00:43:20.150180 Processed 61 out of 100
+2015-08-10 00:43:20.261082 Processed 62 out of 100
+2015-08-10 00:43:20.374825 Processed 63 out of 100
+2015-08-10 00:43:20.568000 Processed 64 out of 100
+2015-08-10 00:43:20.758536 Processed 65 out of 100
+2015-08-10 00:43:20.857577 Processed 66 out of 100
+2015-08-10 00:43:21.028504 Processed 67 out of 100
+2015-08-10 00:43:21.124986 Processed 68 out of 100
+2015-08-10 00:43:21.305789 Processed 69 out of 100
+2015-08-10 00:43:21.473333 Processed 70 out of 100
+2015-08-10 00:43:21.648056 Processed 71 out of 100
+2015-08-10 00:43:21.814068 Processed 72 out of 100
+2015-08-10 00:43:21.998708 Processed 73 out of 100
+2015-08-10 00:43:22.171601 Processed 74 out of 100
+2015-08-10 00:43:22.341437 Processed 75 out of 100
+2015-08-10 00:43:22.524137 Processed 76 out of 100
+2015-08-10 00:43:22.673464 Processed 77 out of 100
+2015-08-10 00:43:22.848943 Processed 78 out of 100
+2015-08-10 00:43:23.033829 Processed 79 out of 100
+2015-08-10 00:43:23.223310 Processed 80 out of 100
+2015-08-10 00:43:23.407625 Processed 81 out of 100
+2015-08-10 00:43:23.586657 Processed 82 out of 100
+2015-08-10 00:43:23.753121 Processed 83 out of 100
+2015-08-10 00:43:23.925820 Processed 84 out of 100
+2015-08-10 00:43:24.116235 Processed 85 out of 100
+2015-08-10 00:43:24.295039 Processed 86 out of 100
+2015-08-10 00:43:24.452526 Processed 87 out of 100
+2015-08-10 00:43:24.632248 Processed 88 out of 100
+2015-08-10 00:43:24.837691 Processed 89 out of 100
+2015-08-10 00:43:25.045798 Processed 90 out of 100
+2015-08-10 00:43:25.249285 Processed 91 out of 100
+2015-08-10 00:43:25.426328 Processed 92 out of 100
+2015-08-10 00:43:25.593777 Processed 93 out of 100
+2015-08-10 00:43:25.762683 Processed 94 out of 100
+2015-08-10 00:43:25.853616 Processed 95 out of 100
+2015-08-10 00:43:26.029756 Processed 96 out of 100
+2015-08-10 00:43:26.183411 Processed 97 out of 100
+2015-08-10 00:43:26.371313 Processed 98 out of 100
+2015-08-10 00:43:26.537559 Processed 99 out of 100
+No more figures (processed: 100)
+959
+No more figures (processed: 100)
+total moves =  2453 out of  2453
+Canonical score =  3169
+No more figures (processed: 100)
+total moves =  2453 out of  2453
+Canonical score =  3169
+score: 959, canonical_score: 3169
+Solving seed 11460 (5/10)
+2015-08-10 00:43:27.022060 Processed 1 out of 100
+2015-08-10 00:43:27.176039 Processed 2 out of 100
+2015-08-10 00:43:27.633592 Processed 3 out of 100
+2015-08-10 00:43:27.891721 Processed 4 out of 100
+2015-08-10 00:43:28.357369 Processed 5 out of 100
+2015-08-10 00:43:28.823083 Processed 6 out of 100
+2015-08-10 00:43:29.279597 Processed 7 out of 100
+2015-08-10 00:43:29.731544 Processed 8 out of 100
+2015-08-10 00:43:30.171972 Processed 9 out of 100
+2015-08-10 00:43:30.454168 Processed 10 out of 100
+2015-08-10 00:43:30.908226 Processed 11 out of 100
+2015-08-10 00:43:31.367993 Processed 12 out of 100
+2015-08-10 00:43:31.846539 Processed 13 out of 100
+2015-08-10 00:43:32.097040 Processed 14 out of 100
+2015-08-10 00:43:32.380829 Processed 15 out of 100
+2015-08-10 00:43:32.513951 Processed 16 out of 100
+2015-08-10 00:43:32.975726 Processed 17 out of 100
+2015-08-10 00:43:33.429776 Processed 18 out of 100
+2015-08-10 00:43:33.908473 Processed 19 out of 100
+2015-08-10 00:43:34.404732 Processed 20 out of 100
+2015-08-10 00:43:34.973586 Processed 21 out of 100
+2015-08-10 00:43:35.452553 Processed 22 out of 100
+2015-08-10 00:43:35.730152 Processed 23 out of 100
+2015-08-10 00:43:36.185739 Processed 24 out of 100
+2015-08-10 00:43:36.748152 Processed 25 out of 100
+2015-08-10 00:43:37.168790 Processed 26 out of 100
+2015-08-10 00:43:37.645335 Processed 27 out of 100
+2015-08-10 00:43:38.149043 Processed 28 out of 100
+2015-08-10 00:43:38.664698 Processed 29 out of 100
+2015-08-10 00:43:39.011263 Processed 30 out of 100
+2015-08-10 00:43:39.498333 Processed 31 out of 100
+2015-08-10 00:43:39.930965 Processed 32 out of 100
+2015-08-10 00:43:40.328338 Processed 33 out of 100
+2015-08-10 00:43:40.547251 Processed 34 out of 100
+2015-08-10 00:43:40.633881 Processed 35 out of 100
+2015-08-10 00:43:41.024957 Processed 36 out of 100
+2015-08-10 00:43:41.395460 Processed 37 out of 100

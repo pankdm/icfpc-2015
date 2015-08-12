@@ -1,0 +1,728 @@
+Rank    Score   Team Name   Power
+1   35  
+Unagi (see tags)    15
+2   170 
+Hack the pool (see tags)    13
+3   182 
+WILD BASHKORT MAGES (see tags)  10
+4   214 
+ByCode (see tags)   12
+5   246 
+THIRTEEN (see tags) 16
+6   273 
+Natsubate! (see tags)   8
+7   278 
+Gachi (see tags)    6
+8   328 
+code-o-matic (see tags) 6
+9   337 
+Olympia (see tags)  10
+10  346 
+fixstars (see tags) 13
+11  371 
+7th_building (see tags) 7
+12  376 
+tbd (see tags)  15
+13  414 
+Hack the loop (see tags)    12
+14  487 
+Begot (see tags)    8
+15  494 
+Trup16 (see tags)   10
+16  495 
+El Latino (see tags)    7
+17  517 
+Frictionless Bananas (see tags) 7
+18  532 
+Ural Nerds (see tags)   7
+19  571 
+LL Cthulh J (puppetlabs) (see tags) 18
+20  588 
+Play the VR game Bazaar! Coming soon to the Oculus GearVR store. www.templegatesgames.com @Temple_Gates #BazaarGame (see tags)  7
+21  612 
+<$><*> (see tags)   7
+22  616 
+TaupeGoons (see tags)   15
+23  621 
+The Scrolling Stones (see tags) 15
+24  647 
+Chudovo (see tags)  9
+25  715 
+NP Compete (see tags)   8
+26  724 
+kstm.org (see tags) 4
+27  742 
+jabber.ru (see tags)    5
+28  745 
+Majesty Hash Conquer (see tags) 7
+29  770 
+BusyBeaver (see tags)   6
+30  819 
+The Blind Hen (see tags)    8
+31  855 
+Yahoo knows him (see tags)  4
+32  896 
+N6B (see tags)  4
+33  914 
+The Cat is #1!! (see tags)  13
+34  915 
+GaupeToons (see tags)   13
+35  942 
+DiamondPrincess (see tags)  1
+36  966 
+swimteam (see tags) 7
+37  997 
+Replete With Abstract Joy (see tags)    6
+38  1038    
+GD and Alumni (see tags)    6
+39  1079    
+KMC (see tags)  6
+40  1129    
+Guru Meditation (see tags)  9
+41  1145    
+NCPLUG (see tags)   7
+42  1178    
+coding_monkeys (see tags)   9
+43  1179    
+A Storm of Minds (see tags) 8
+44  1197    
+mi-goto (see tags)  6
+45  1212    
+Piggybank Sftw. (see tags)  5
+46  1213    
+Cult of the Bound Variable (see tags)   15
+47  1243    
+lambda-llama (see tags) 9
+48  1246    
+Vezoul (see tags)   6
+49  1339    
+The sound of lambda (see tags)  11
+50  1384    
+Bears ate our brains! (see tags)    5
+51  1392    
+quantum (see tags)  4
+52  1394    
+Ξίφων and the Physicists (see tags) 7
+53  1429    
+Error 404 (see tags)    4
+54  1442    
+Rabbit House (see tags) 9
+55  1444    
+error404-icfpc (see tags)   4
+56  1446    
+I C Frantic People (see tags)   5
+57  1478    
+Skobochka (see tags)    8
+58  1481    
+solo r6 (see tags)  6
+59  1561    
+Snakes vs Lambdas (see tags)    5
+60  1579    
+EPFL Mukel Solo (see tags)  1
+61  1604    
+Raging Mushrooms (see tags) 6
+62  1669    
+uguu.org (see tags) 6
+63  1678    
+dark onion (see tags)   4
+64  1690    
+BeesOfDoom (see tags)   4
+65  1705    
+Side Effects May Include... (see tags)  5
+66  1709    
+Japanese curry. (see tags)  4
+67  1713    
+(/'u')/ (see tags)  10
+68  1757    
+Movio (see tags)    4
+69  1758    
+Slow (see tags) 5
+70  1761    
+Eyjafjallajokull (see tags) 2
+71  1774    
+MIRI Fan Club (see tags)    13
+72  1778    
+rknoll (see tags)   2
+73  1800    
+Sunspear (see tags) 6
+74  1835    
+Invisible Imp (see tags)    4
+75  1860    
+udfew (see tags)    9
+76  1863    
+Okeihan (see tags)  4
+77  1899    
+Leaf Pie (see tags) 1
+78  1945    
+JK (see tags)   4
+79  1983    
+Lom Crapo (see tags)    7
+80  1990    
+notogawa (see tags) 1
+81  2007    
+Submitted (see tags)    5
+82  2016    
+Ashk'Ente (see tags)    7
+83  2017    
+Team Sampou (see tags)  5
+84  2030    
+hi, team (see tags) 3
+85  2107    
+TheCthulhuInSummer (see tags)   15
+86  2116    
+Team Kieran (see tags)  1
+87  2122    
+taxidriver (see tags)   4
+88  2126    
+Not So Swift (see tags) 2
+89  2133    
+C++ Turbo (see tags)    4
+90  2143    
+gachiraccoon (see tags) 3
+91  2171    
+LILiK (see tags)    8
+92  2173    
+consalot (see tags) 1
+93  2191    
+Celestial Dire Badger (see tags)    6
+94  2212    
+MIPT Lambda (see tags)  3
+95  2251    
+LyricalTokarev (see tags)   1
+96  2253    
+dark-power-miners (see tags)    6
+97  2268    
+Loop the hack (see tags)    1
+98  2276    
+perthparkour.com (see tags) 4
+99  2279    
+keni (see tags) 1
+100 2327    
+H. P. Wagner (see tags) 7
+101 2345    
+Team Meh (see tags) 0
+102 2369    
+Razorfish-ca (see tags) 4
+103 2420    
+Dr. Zoidberg (see tags) 1
+104 2443    
+Rhope Burn (see tags)   4
+105 2489    
+sjoerd_visscher (see tags)  4
+106 2492    
+Goto11 (see tags)   4
+107 2521    
+secretbatcave (see tags)    1
+108 2550    
+Quickie (see tags)  0
+109 2566    
+Green Box (see tags)    1
+110 2587    
+Sir Bedevere the Wise (see tags)    1
+111 2602    
+DNIWE :: a (see tags)   0
+112 2604    
+CDR (see tags)  2
+113 2609    
+@sanityinc - work with me at powershop.co.nz (see tags) 1
+114 2612    
+meguro no money (see tags)  1
+115 2615    
+Wandering Hobos (see tags)  1
+116 2618    
+Arkham Hackers (see tags)   2
+117 2637    
+IKS (see tags)  0
+118 2657    
+Handcrafted Insanity (see tags) 4
+119 2660    
+dendik'); DROP TABLE users; -- (see tags)   0
+120 2663    
+BinaryBee (see tags)    0
+121 2665    
+O Caml, My Caml (see tags)  0
+122 2683    
+Stanfy+ (see tags)  1
+123 2722    
+ParseError (see tags)   11
+124 2730    
+Imperative Empire (see tags)    2
+125 2738    
+1 (see tags)    2
+126 2758    
+|3b| (see tags) 0
+127 2767    
+uxtu (see tags) 0
+128 2769    
+int4_t (see tags)   1
+129 2784    
+sonna*baka*na (see tags)    5
+130 2824    
+Dis Functional (see tags)   0
+131 2839    
+The Wrath of Isa (see tags) 1
+132 2865    
+scala slackers (see tags)   0
+133 2866    
+Summerscream (see tags) 0
+134 2871    
+TeamDev (see tags)  0
+135 2892    
+Kirill (see tags)   0
+136 2912    
+BelleView (see tags)    6
+137 2924    
+alexf (see tags)    0
+137 2924    
+Limbo (see tags)    0
+138 2945    
+pcn (see tags)  1
+139 2949    
+cw (see tags)   2
+140 2952    
+flai (see tags) 0
+141 2991    
+Go Hippos! (see tags)   1
+142 3007    
+Sergeif (see tags)  3
+143 3010    
+UTMC and Functional Programmers (see tags)  0
+144 3034    
+Macondo Squad (see tags)    0
+145 3039    
+Canivsar (see tags) 0
+146 3057    
+What is the sound of one hand coding? (see tags)    1
+147 3084    
+ghostDunk (see tags)    2
+148 3097    
+Rosenburg Engel (see tags)  0
+148 3097    
+xsd (see tags)  1
+149 3098    
+Foo (see tags)  1
+150 3102    
+Thelemite Order (see tags)  0
+151 3146    
+codingteam (see tags)   2
+152 3175    
+ICFP Bot (see tags) 1
+153 3176    
+gzoluble (see tags) 1
+154 3192    
+d4o (see tags)  1
+155 3207    
+Frank324 (see tags) 3
+156 3208    
+ush (see tags)  0
+157 3218    
+Inherited speciality (see tags) 1
+158 3248    
+scopel (see tags)   0
+159 3262    
+Zebra Infused Hamsters (see tags)   0
+160 3276    
+ajil (see tags) 4
+160 3276    
+The Turing Mechanics (see tags) 0
+161 3308    
+Teta Lambda (see tags)  1
+162 3334    
+cvnybeem (see tags) 0
+163 3348    
+The Curse of Hens (see tags)    2
+164 3349    
+newmens (see tags)  0
+165 3363    
+yowa (see tags) 0
+166 3364    
+Vorpal Methods (see tags)   0
+167 3382    
+cjlarose/rchasman (see tags)    0
+168 3386    
+The Order of PLASMA (see tags)  0
+169 3387    
+A Particularly Beautiful Day (see tags) 1
+170 3388    
+Exit Point (see tags)   0
+171 3393    
+errDO_IT_YOURSELF (see tags)    0
+172 3404    
+Chaitin's Omega Men (see tags)  1
+173 3408    
+Kaktus (see tags)   1
+173 3408    
+malisper (see tags) 0
+174 3409    
+4LV153 T34M (see tags)  0
+175 3419    
+M-type (see tags)   0
+176 3423    
+Aurora Borealis (see tags)  1
+177 3424    
+Power Majesty Hash Conquer (see tags)   3
+178 3426    
+teamsoft (see tags) 0
+178 3426    
+gilidigo (see tags) 0
+179 3428    
+OrionX-6 (see tags) 0
+180 3430    
+Gyuniku Nasu Modan (see tags)   1
+181 3431    
+ZUBRAZUBR (see tags)    2
+182 3432    
+NoobTeam (see tags) 1
+183 3433    
+Dancing walruses (see tags) 1
+184 3434    
+Junkfood (see tags) 1
+185 3435    
+blue_iris (see tags)    1
+185 3435    
+InforFun (see tags) 1
+186 3439    
+Dream Algo (see tags)   0
+186 3439    
+heklers (see tags)  0
+187 3440    
+Blazing Heat (see tags) 1
+188 3441    
+tsurasa_diary (see tags)    0
+188 3441    
+Just bot without name (see tags)    1
+188 3441    
+orivej (see tags)   0
+189 3444    
+udon (see tags) 0
+189 3444    
+Eger a marson (see tags)    0
+190 3445    
+epriestley (see tags)   0
+191 3446    
+Sohmens (see tags)  0
+192 3447    
+NRE (see tags)  0
+192 3447    
+igusarov (see tags) 0
+193 3448    
+lass1e (see tags)   0
+193 3448    
+Super Cow Powers (see tags) 0
+193 3448    
+Honeypot (see tags) 0
+194 3449    
+Pipal
+0
+194 3449    
+Hartmann is God
+0
+194 3449    
+Shut up and take my honey
+0
+194 3449    
+paiv (see tags) 0
+194 3449    
+tmd
+0
+194 3449    
+Sergey
+0
+194 3449    
+'fn
+0
+194 3449    
+Abstract Computation
+0
+194 3449    
+OneManArmy
+0
+194 3449    
+hmwr
+0
+194 3449    
+offbyone
+0
+194 3449    
+anta
+0
+194 3449    
+nbu (see tags)  0
+194 3449    
+Segfault
+0
+194 3449    
+team247
+0
+194 3449    
+wheezards
+0
+194 3449    
+sapie
+0
+194 3449    
+rover
+0
+194 3449    
+Deterministic Market Ride
+0
+194 3449    
+floatdrop
+0
+194 3449    
+S (S (S (S Z))) Horsemen of Katakalypsis!
+0
+194 3449    
+LMS
+0
+194 3449    
+Galois Live Test Team (see tags)    0
+194 3449    
+The Higher Order Of Zeuxis
+0
+194 3449    
+ORBIT
+0
+194 3449    
+CodeByCthulhu
+0
+194 3449    
+Lazy Owl
+0
+194 3449    
+bravery and stupidity
+0
+194 3449    
+lambda madness
+0
+194 3449    
+The Onion in the Varnish
+0
+194 3449    
+Just Nothing (see tags) 0
+194 3449    
+consalot
+0
+194 3449    
+Dutch Davar
+0
+194 3449    
+Lutvuk
+0
+194 3449    
+galtsev
+0
+194 3449    
+TEAM MAGIC BIT
+0
+194 3449    
+CUBs.
+0
+194 3449    
+tmk
+0
+194 3449    
+never_retired
+0
+194 3449    
+ocramz
+0
+194 3449    
+The-WTFers
+0
+194 3449    
+ddmm
+0
+194 3449    
+Not So Swift
+0
+194 3449    
+GirlsWhoCode
+0
+194 3449    
+sorry
+0
+194 3449    
+monkeyproof
+0
+194 3449    
+unko
+0
+194 3449    
+O
+0
+194 3449    
+tanzaku (see tags)  0
+194 3449    
+Team Bean
+0
+194 3449    
+RANRAN (see tags)   0
+194 3449    
+xtopi
+0
+194 3449    
+machinaut
+0
+194 3449    
+G Flat
+0
+194 3449    
+Olioapps
+0
+194 3449    
+hayato
+0
+194 3449    
+kelecorix
+0
+194 3449    
+relaxedteam
+0
+194 3449    
+0
+194 3449    
+Azatoths flautist
+0
+194 3449    
+Gassa
+0
+194 3449    
+cashto (see tags)   0
+194 3449    
+cashto
+0
+194 3449    
+cashto
+0
+194 3449    
+Just Me.
+0
+194 3449    
+Binary Affairs
+0
+194 3449    
+Y17DT
+0
+194 3449    
+The Church of the Least Fixed Point
+0
+194 3449    
+The Boardwalk
+0
+194 3449    
+mask
+0
+194 3449    
+Bender
+0
+194 3449    
+Fun with Functors
+0
+194 3449    
+Tiny Hat Maniacs
+0
+194 3449    
+The Hungry Programmers
+0
+194 3449    
+agrarium
+0
+194 3449    
+Lambda (see tags)   0
+194 3449    
+Hartmannix
+0
+194 3449    
+Iä
+0
+194 3449    
+A Lonely Duck
+0
+194 3449    
+BlueHades
+0
+194 3449    
+Instinctive
+0
+194 3449    
+34p9ghblfskbv9ew
+0
+194 3449    
+All your monad are belong to us
+0
+194 3449    
+MXPT
+0
+194 3449    
+tyfkda
+0
+194 3449    
+NM
+0
+194 3449    
+Sparrow
+0
+194 3449    
+nobu (see tags) 0
+194 3449    
+Bears (see tags)    0
+194 3449    
+OLTesting
+0
+194 3449    
+Kharkiv Mind
+0
+194 3449    
+Frozen Bits
+0
+194 3449    
+dtlptm
+0
+194 3449    
+hastr
+0
+194 3449    
+Lighting Blueberry (see tags)   0
+194 3449    
+zeebrah
+0
+194 3449    
+FitzGerard
+0
+194 3449    
+Purvciemz
+0
+194 3449    
+Test1234
+0
+194 3449    
+kebriam
+0
+194 3449    
+u-gobot-devteam
+0
+194 3449    
+HX masters
+0
+194 3449    
+BrokenPost
+0
+194 3449    
+LonesomeDragon
+0
+194 3449    
+bantic
+0
+194 3449    
+FIRQ
+0
+194 3449    
+FIRQ
+0
+194 3449    
+owl
+0
+194 3449    
+Hack n Slash
+0

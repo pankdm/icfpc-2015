@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 0, 
+    "tag": "tag", 
+    "solution": "tsathoggua", 
+    "problemId": 0
+  }, 
+  {
+    "seed": 0, 
+    "tag": "tag", 
+    "solution": "cocke.", 
+    "problemId": 1
+  }, 
+  {
+    "seed": 0, 
+    "tag": "tag", 
+    "solution": "john", 
+    "problemId": 2
+  }, 
+  {
+    "seed": 0, 
+    "tag": "tag", 
+    "solution": "backus", 
+    "problemId": 3
+  }, 
+  {
+    "seed": 0, 
+    "tag": "tag", 
+    "solution": "bigboote", 
+    "problemId": 4
+  }
+]

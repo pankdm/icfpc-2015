@@ -1,0 +1,3 @@
+pip install enum34
+# easy_install enum34
+easy_install getch

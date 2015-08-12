@@ -1,0 +1,10 @@
+# == Snakes vs Lambdas ==
+
+# We are submitting our source just to have something submitted,
+# but we don't hope to make into finals, so we decided not to spend
+# time implementing the desired program format
+
+# As for our own solutions we used the following command to run it
+# ```
+# ./tester_one.py --solver=deep_solver --send --test=p/3.json
+# ```

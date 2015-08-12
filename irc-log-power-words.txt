@@ -1,0 +1,25 @@
+20:56:48 <galois_dmz> As for the phrases: we will do an official publication, of course, of much information about the contest... including an annotated version of the background document, and quite likely some more original writing about the aftermath.  
+20:56:53 <galois_dmz> But for the moment...  
+20:57:13 -> jystic (jystic!~jystic@CPE-121-209-202-166.home32.cht.bigpond.net.au) has joined #icfp-contest  
+20:57:26 <galois_dmz> here's a peek at an internal document.  
+20:57:44 <galois_dmz> - Ei!      (given)  
+20:57:45 <galois_dmz> - Ia! Ia!  (given on board)  
+20:57:45 <galois_dmz> - R'lyeh   (given on board)  
+20:57:47 <galois_dmz> - Yuggoth  (given on board)  
+20:57:49 <galois_dmz> - Tsathoggua (hinted - icfpcontest.org + tweet https://twitter.com/ICFPContest2015/status/630300070236139520)  
+20:57:51 <galois_dmz> - YogSothoth  
+20:57:53 <galois_dmz> - Necronomicon  
+20:57:55 <galois_dmz> - vigintillion  (hinted - tweet https://twitter.com/ICFPContest2015/status/629688963284897792 and https://twitter.com/ICFPContest2015/status/630645065304576000 (obliquely))  
+20:57:57 <galois_dmz> - Cthulhu fhtagn!  (hinted - Galois blog)  
+20:57:59 <galois_dmz> - Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. (hinted - yiddish tweet)  
+20:58:01 <galois_dmz> - In his house at R'lyeh dead Cthulhu waits dreaming. (hinted - yiddish tweet)  
+20:58:03 <galois_dmz> - The Laundry (hinted - tweet https://twitter.com/ICFPContest2015/status/629549664228892672)  
+20:58:05 <galois_dmz> - Planet 10 (hinted - tweets https://twitter.com/ICFPContest2015/status/630385038094372864 and https://twitter.com/ICFPContest2015/status/630385483965575171)  
+20:58:07 <galois_dmz> - Yoyodyne (hinted obliquely - tweet https://twitter.com/ICFPContest2015/status/629701008793452544 more obviously https://twitter.com/ICFPContest2015/status/630394674486706177)  
+20:58:09 <galois_dmz> - monkeyboy (hinted - tweet https://twitter.com/ICFPContest2015/status/630385483965575171)  
+20:58:11 <galois_dmz> - John Bigboote (hinted - tweet https://twitter.com/ICFPContest2015/status/630393114331459588)  
+20:58:13 <galois_dmz> - BLUE HADES (hinted - problem 24 reveal)  
+20:58:15 <galois_dmz> - CASE NIGHTMARE GREEN (hinted - tweet https://twitter.com/ICFPContest2015/status/630645065304576000)  
+20:58:44 <galois_dmz> (that is unupdated - in particular, the later hints about vigintillion and the laundry, from the last 6 hours of the contest, are not listed there... and there may be other hints I forgot to note in the file)  
+21:00:09 <galois_dmz> As we've said a few times, we intend to make all the contest artifacts public. And the static website isn't going to go away, since it's hosted on GitHub.  
+21:00:26 <galois_dmz> (though the URL will obviously change before next year's contest)  
