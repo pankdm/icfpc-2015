@@ -73,7 +73,10 @@ param = {
 ```
 
 We also implemented a couple of heuristics to speed up BFS (this was especially useful on big maps):
- - If the figure is higher than highest filled cell of the map, then use move by formula `Move.SE if current_figure.y % 2 == 0 else Move.SW`
+ - If the figure is higher than highest filled cell of the map, then use move by formula 
+```
+Move.SE if current_figure.y % 2 == 0 else Move.SW
+```
  - If length of BFS queue is more than 40, then don't consider rotations when choosing next move
 
 
@@ -95,7 +98,7 @@ TODO: explanation picture
 
 We extended the `y`-th row by `(y + 1) / 2` cells to the left, and by `width - (y + 1) / 2` cells to the right so that each row has exactly `2 * width` cells.
 
-We represented each figure by coordinates of pivot + list of `(dx, dy) -- relative coordinates of points to pivot.
+We represented each figure by coordinates of pivot + list of (dx, dy) -- relative coordinates of points to pivot.
 Our coordinate system is a linear one, so it's relatively easy to compute the rotation of any given point (x, y) around pivot:
 
 ```
