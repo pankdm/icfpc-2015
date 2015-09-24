@@ -12,6 +12,5 @@ for i in xrange(0, 25):
     unique_seeds = len(set(js['sourceSeeds']))
     figures = js['sourceLength']
 
-    print "field {} || seeds = {} || figures = {}, w = {}, h = {},  \ttotal = {}".format(
+    print "{} || seeds = {} || figures = {} || w = {}, h = {}, total = {}".format(
         i, seeds, figures, w, h, w * h)
-
