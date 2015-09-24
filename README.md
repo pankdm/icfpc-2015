@@ -7,8 +7,8 @@ This year the problem was about writing an AI to play hexagonal tetris.
 Here is brief explanation of our solution.
 
 At high level, we use 2-step approach:
-1. For current figure using BFS we find the best next position (we call it macro move) according to some heuristic function.
-2. For that position we generate sequence of moves that maximizes power words score.
+ 1. For current figure using BFS we find the best next position (we call it macro move) according to some heuristic function.
+ 2. For that position we generate sequence of moves that maximizes power words score.
 
 Now let's consider each step in more details
 
@@ -16,11 +16,11 @@ Now let's consider each step in more details
 
 First we generated a set of all terminal states (macro moves) where the current figure would be locked.
 This is done using BFS. Then each state is scored using weighted sum of the following features (see `deep_solver.py` for more details):
-1. **Real score**. Score that is obtained for locking the figure according to game rules. (E.g. the more lines will be cleared by macro move the higher will be score)
-2. **Gravity score**. Sum of `-exp(-y / 20.)` for each (x, y), where (x, y) is filled cell of the board. It encourages putting the figure on the lowest lines.
-3. **Covered Holes score**. We have 3 features here: number of empty cells that have a filled cell as a top-right neighbor (c1) or top-left neighbor (c2) or both (c3).
-4. **Unfinished score**. Sum of `-exp(-num_empty / 6.0)` for each row, where `num_empty` is number of empty cells in this row. It encourages try to fill lines with the least number of empty cells.
-5. **Smoothness score**. Sum of `abs(is_empty(x, y) - is_empty(x + 1, y))` for each (x, y) -- basically the number of times filled cell is adjacent to empty within a row. It encourages to put figures more compactly (do not leave holes in a row).
+ 1. **Real score**. Score that is obtained for locking the figure according to game rules. (E.g. the more lines will be cleared by macro move the higher will be score)
+ 2. **Gravity score**. Sum of `-exp(-y / 20.)` for each (x, y), where (x, y) is filled cell of the board. It encourages putting the figure on the lowest lines.
+ 3. **Covered Holes score**. We have 3 features here: number of empty cells that have a filled cell as a top-right neighbor (c1) or top-left neighbor (c2) or both (c3).
+ 4. **Unfinished score**. Sum of `-exp(-num_empty / 6.0)` for each row, where `num_empty` is number of empty cells in this row. It encourages try to fill lines with the least number of empty cells.
+ 5. **Smoothness score**. Sum of `abs(is_empty(x, y) - is_empty(x + 1, y))` for each (x, y) -- basically the number of times filled cell is adjacent to empty within a row. It encourages to put figures more compactly (do not leave holes in a row).
 
 To make computation of this scores more efficient they were represented as vector operations over numpy arrays. For example, gravity score could be computed using formula:
 
